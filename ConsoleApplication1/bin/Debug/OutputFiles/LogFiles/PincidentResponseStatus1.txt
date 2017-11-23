@@ -1,0 +1,3150 @@
+﻿{
+  "Data": {
+    "Id": 7,
+    "CreatedOn": "2017-09-12T22:48:48",
+    "City": "ERZİNCAN",
+    "County": null,
+    "TweetId": 907737790036799488,
+    "TweetScreenName": "ntv",
+    "Text": "Erzincan'da kaza: 4 ölü, 2 yaralı https://t.co/v69T8ObxFH https://t.co/lLnKVk9iDs",
+    "URL": "https://t.co/v69T8ObxFH",
+    "MediaURL": "http://pbs.twimg.com/media/DJjuroEX0AATL1T.jpg",
+    "TweetURL": "http://twitter.com/ntv/status/907737790036799488",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T22:48:48",
+  "City": "ERZİNCAN",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 907737790036799488,
+  "Text": "Erzincan'da kaza: 4 ölü, 2 yaralı https://t.co/v69T8ObxFH https://t.co/lLnKVk9iDs",
+  "URL": "https://t.co/v69T8ObxFH",
+  "MediaURL": "http://pbs.twimg.com/media/DJjuroEX0AATL1T.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/907737790036799488"
+}
+{
+  "Data": {
+    "Id": 8,
+    "CreatedOn": "2017-09-12T15:54:57",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907633639432884224,
+    "TweetScreenName": "ntv",
+    "Text": "Eskişehir-Ankara karayolunda zincirleme kaza! 4'ü ağır 34 yaralı https://t.co/NsIU5aQNqG https://t.co/2U8RxnNogU",
+    "URL": "https://t.co/NsIU5aQNqG",
+    "MediaURL": "http://pbs.twimg.com/media/DJiPzybW4AEUXL4.jpg",
+    "TweetURL": "http://twitter.com/ntv/status/907633639432884224",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T15:54:57",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 907633639432884224,
+  "Text": "Eskişehir-Ankara karayolunda zincirleme kaza! 4'ü ağır 34 yaralı https://t.co/NsIU5aQNqG https://t.co/2U8RxnNogU",
+  "URL": "https://t.co/NsIU5aQNqG",
+  "MediaURL": "http://pbs.twimg.com/media/DJiPzybW4AEUXL4.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/907633639432884224"
+}
+{
+  "Data": {
+    "Id": 9,
+    "CreatedOn": "2017-09-19T15:20:09",
+    "City": "MERSİN",
+    "County": "TARSUS",
+    "TweetId": 910161597087219712,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tarsus'ta korkutan yangın https://t.co/imTEZsQuFX https://t.co/wURYhNIGkq",
+    "URL": "https://t.co/imTEZsQuFX",
+    "MediaURL": "http://pbs.twimg.com/media/DKGLJcAXoAAioBf.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910161597087219712",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-19T15:20:09",
+  "City": "MERSİN",
+  "County": "TARSUS",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910161597087219712,
+  "Text": "Tarsus'ta korkutan yangın https://t.co/imTEZsQuFX https://t.co/wURYhNIGkq",
+  "URL": "https://t.co/imTEZsQuFX",
+  "MediaURL": "http://pbs.twimg.com/media/DKGLJcAXoAAioBf.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910161597087219712"
+}
+{
+  "Data": {
+    "Id": 10,
+    "CreatedOn": "2017-09-18T20:12:36",
+    "City": "DENİZLİ",
+    "County": null,
+    "TweetId": 909872806036492288,
+    "TweetScreenName": "cnnturk",
+    "Text": "Denizli'deki orman yangın kontrol altında https://t.co/eTBNwnhzmp https://t.co/g6B10HB3fE",
+    "URL": "https://t.co/eTBNwnhzmp",
+    "MediaURL": "http://pbs.twimg.com/media/DKCEfnwX0AYYV-r.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909872806036492288",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T20:12:36",
+  "City": "DENİZLİ",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909872806036492288,
+  "Text": "Denizli'deki orman yangın kontrol altında https://t.co/eTBNwnhzmp https://t.co/g6B10HB3fE",
+  "URL": "https://t.co/eTBNwnhzmp",
+  "MediaURL": "http://pbs.twimg.com/media/DKCEfnwX0AYYV-r.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909872806036492288"
+}
+{
+  "Data": {
+    "Id": 11,
+    "CreatedOn": "2017-09-14T18:30:29",
+    "City": "DÜZCE",
+    "County": null,
+    "TweetId": 908397558749437952,
+    "TweetScreenName": "cnnturk",
+    "Text": "Düzce'de ormanlık alanda yangın https://t.co/7t53k0OA90 https://t.co/KfUZKuM52S",
+    "URL": "https://t.co/7t53k0OA90",
+    "MediaURL": "http://pbs.twimg.com/media/DJtGw4IXoAEoHy_.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908397558749437952",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-14T18:30:29",
+  "City": "DÜZCE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908397558749437952,
+  "Text": "Düzce'de ormanlık alanda yangın https://t.co/7t53k0OA90 https://t.co/KfUZKuM52S",
+  "URL": "https://t.co/7t53k0OA90",
+  "MediaURL": "http://pbs.twimg.com/media/DJtGw4IXoAEoHy_.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908397558749437952"
+}
+{
+  "Data": {
+    "Id": 12,
+    "CreatedOn": "2017-09-13T17:50:03",
+    "City": "SİNOP",
+    "County": null,
+    "TweetId": 908024993497452545,
+    "TweetScreenName": "cnnturk",
+    "Text": "Sinop'ta yangın güçlükle söndürüldü https://t.co/mXoMWh96qT https://t.co/2S9rspR0py",
+    "URL": "https://t.co/mXoMWh96qT",
+    "MediaURL": "http://pbs.twimg.com/media/DJnz6ufV4AI1KkX.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908024993497452545",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T17:50:03",
+  "City": "SİNOP",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908024993497452545,
+  "Text": "Sinop'ta yangın güçlükle söndürüldü https://t.co/mXoMWh96qT https://t.co/2S9rspR0py",
+  "URL": "https://t.co/mXoMWh96qT",
+  "MediaURL": "http://pbs.twimg.com/media/DJnz6ufV4AI1KkX.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908024993497452545"
+}
+{
+  "Data": {
+    "Id": 13,
+    "CreatedOn": "2017-09-13T08:50:02",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907889096026095617,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara'da hastane yanında yangın paniği https://t.co/s2rhtt9nzb https://t.co/Po5S0KmyYC",
+    "URL": "https://t.co/s2rhtt9nzb",
+    "MediaURL": "http://pbs.twimg.com/media/DJl4UddV4AA1YOn.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907889096026095617",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T08:50:02",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907889096026095617,
+  "Text": "Ankara'da hastane yanında yangın paniği https://t.co/s2rhtt9nzb https://t.co/Po5S0KmyYC",
+  "URL": "https://t.co/s2rhtt9nzb",
+  "MediaURL": "http://pbs.twimg.com/media/DJl4UddV4AA1YOn.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907889096026095617"
+}
+{
+  "Data": {
+    "Id": 14,
+    "CreatedOn": "2017-09-13T07:25:02",
+    "City": "İZMİR",
+    "County": null,
+    "TweetId": 907867702999601152,
+    "TweetScreenName": "cnnturk",
+    "Text": "İzmir'de korkutan yangın https://t.co/uNsxEm2J8U https://t.co/f9TnLdWLdF",
+    "URL": "https://t.co/uNsxEm2J8U",
+    "MediaURL": "http://pbs.twimg.com/media/DJlk3OKUEAAY99t.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907867702999601152",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T07:25:02",
+  "City": "İZMİR",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907867702999601152,
+  "Text": "İzmir'de korkutan yangın https://t.co/uNsxEm2J8U https://t.co/f9TnLdWLdF",
+  "URL": "https://t.co/uNsxEm2J8U",
+  "MediaURL": "http://pbs.twimg.com/media/DJlk3OKUEAAY99t.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907867702999601152"
+}
+{
+  "Data": {
+    "Id": 15,
+    "CreatedOn": "2017-09-12T11:30:52",
+    "City": "İSTANBUL",
+    "County": "EYÜP",
+    "TweetId": 907567181759741952,
+    "TweetScreenName": "cnnturk",
+    "Text": "Eyüp'te öğrenci yurdunda yangın https://t.co/KD2Upp4x0q https://t.co/tM3Hd2kSPs",
+    "URL": "https://t.co/KD2Upp4x0q",
+    "MediaURL": "http://pbs.twimg.com/media/DJhTilrVAAAp_Kr.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907567181759741952",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T11:30:52",
+  "City": "İSTANBUL",
+  "County": "EYÜP",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907567181759741952,
+  "Text": "Eyüp'te öğrenci yurdunda yangın https://t.co/KD2Upp4x0q https://t.co/tM3Hd2kSPs",
+  "URL": "https://t.co/KD2Upp4x0q",
+  "MediaURL": "http://pbs.twimg.com/media/DJhTilrVAAAp_Kr.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907567181759741952"
+}
+{
+  "Data": {
+    "Id": 16,
+    "CreatedOn": "2017-09-12T10:28:20",
+    "City": "MUĞLA",
+    "County": "BODRUM",
+    "TweetId": 907551423382028288,
+    "TweetScreenName": "cnnturkrenk",
+    "Text": "Bodrum'da tatil yapan Yunan iş adamının yatında yangın çıktı https://t.co/uzcHu2tsdv https://t.co/4v8cdEGyCc",
+    "URL": "https://t.co/uzcHu2tsdv",
+    "MediaURL": "http://pbs.twimg.com/media/DJhFNVxXUAAeJSk.jpg",
+    "TweetURL": "http://twitter.com/cnnturkrenk/status/907551423382028288",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T10:28:20",
+  "City": "MUĞLA",
+  "County": "BODRUM",
+  "TweetScreenName": "cnnturkrenk",
+  "TweetId": 907551423382028288,
+  "Text": "Bodrum'da tatil yapan Yunan iş adamının yatında yangın çıktı https://t.co/uzcHu2tsdv https://t.co/4v8cdEGyCc",
+  "URL": "https://t.co/uzcHu2tsdv",
+  "MediaURL": "http://pbs.twimg.com/media/DJhFNVxXUAAeJSk.jpg",
+  "TweetURL": "http://twitter.com/cnnturkrenk/status/907551423382028288"
+}
+{
+  "Data": {
+    "Id": 17,
+    "CreatedOn": "2017-09-11T23:45:03",
+    "City": "MANİSA",
+    "County": null,
+    "TweetId": 907389556420378624,
+    "TweetScreenName": "cnnturk",
+    "Text": "Manisa'da korkutan yangın! https://t.co/CmLPkadUI8 https://t.co/z8HzeVdfVp",
+    "URL": "https://t.co/CmLPkadUI8",
+    "MediaURL": "http://pbs.twimg.com/media/DJex_ZMUQAEcWUM.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907389556420378624",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T23:45:03",
+  "City": "MANİSA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907389556420378624,
+  "Text": "Manisa'da korkutan yangın! https://t.co/CmLPkadUI8 https://t.co/z8HzeVdfVp",
+  "URL": "https://t.co/CmLPkadUI8",
+  "MediaURL": "http://pbs.twimg.com/media/DJex_ZMUQAEcWUM.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907389556420378624"
+}
+{
+  "Data": {
+    "Id": 18,
+    "CreatedOn": "2017-09-11T16:30:31",
+    "City": "MANİSA",
+    "County": null,
+    "TweetId": 907280202472017920,
+    "TweetScreenName": "cnnturk",
+    "Text": "Manisa'da korkutan yangın! https://t.co/kQhEaUkXit https://t.co/FV8Aey7ADc",
+    "URL": "https://t.co/kQhEaUkXit",
+    "MediaURL": "http://pbs.twimg.com/media/DJdOiLBW0AEMJCF.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907280202472017920",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T16:30:31",
+  "City": "MANİSA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907280202472017920,
+  "Text": "Manisa'da korkutan yangın! https://t.co/kQhEaUkXit https://t.co/FV8Aey7ADc",
+  "URL": "https://t.co/kQhEaUkXit",
+  "MediaURL": "http://pbs.twimg.com/media/DJdOiLBW0AEMJCF.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907280202472017920"
+}
+{
+  "Data": {
+    "Id": 19,
+    "CreatedOn": "2017-09-11T10:35:03",
+    "City": "VAN",
+    "County": null,
+    "TweetId": 907190748839325697,
+    "TweetScreenName": "cnnturk",
+    "Text": "Van'da yangın: 4 bin dönüm arazi kül oldu https://t.co/RJJ5vvs6Gb https://t.co/JDU0CxJpdJ",
+    "URL": "https://t.co/RJJ5vvs6Gb",
+    "MediaURL": "http://pbs.twimg.com/media/DJb9LWYW0AA45BS.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907190748839325697",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T10:35:03",
+  "City": "VAN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907190748839325697,
+  "Text": "Van'da yangın: 4 bin dönüm arazi kül oldu https://t.co/RJJ5vvs6Gb https://t.co/JDU0CxJpdJ",
+  "URL": "https://t.co/RJJ5vvs6Gb",
+  "MediaURL": "http://pbs.twimg.com/media/DJb9LWYW0AA45BS.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907190748839325697"
+}
+{
+  "Data": {
+    "Id": 20,
+    "CreatedOn": "2017-09-10T20:35:07",
+    "City": "İSTANBUL",
+    "County": "GAZİOSMANPAŞA",
+    "TweetId": 906979370153242625,
+    "TweetScreenName": "cnnturk",
+    "Text": "Gaziosmanpaşa'daki kafede korkutan yangın https://t.co/5raFlgI7BF https://t.co/urwMpDORXv",
+    "URL": "https://t.co/5raFlgI7BF",
+    "MediaURL": "http://pbs.twimg.com/media/DJY87e8XcAE_6Io.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906979370153242625",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T20:35:07",
+  "City": "İSTANBUL",
+  "County": "GAZİOSMANPAŞA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906979370153242625,
+  "Text": "Gaziosmanpaşa'daki kafede korkutan yangın https://t.co/5raFlgI7BF https://t.co/urwMpDORXv",
+  "URL": "https://t.co/5raFlgI7BF",
+  "MediaURL": "http://pbs.twimg.com/media/DJY87e8XcAE_6Io.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906979370153242625"
+}
+{
+  "Data": {
+    "Id": 21,
+    "CreatedOn": "2017-09-10T19:40:01",
+    "City": "İSTANBUL",
+    "County": "GAZİOSMANPAŞA",
+    "TweetId": 906965503880699904,
+    "TweetScreenName": "cnnturk",
+    "Text": "Gaziosmanpaşa'daki kafede korkutan yangın https://t.co/jdbdhyVpTv https://t.co/U4hoWHw6Yz",
+    "URL": "https://t.co/jdbdhyVpTv",
+    "MediaURL": "http://pbs.twimg.com/media/DJYwUWfUEAMGscw.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906965503880699904",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T19:40:01",
+  "City": "İSTANBUL",
+  "County": "GAZİOSMANPAŞA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906965503880699904,
+  "Text": "Gaziosmanpaşa'daki kafede korkutan yangın https://t.co/jdbdhyVpTv https://t.co/U4hoWHw6Yz",
+  "URL": "https://t.co/jdbdhyVpTv",
+  "MediaURL": "http://pbs.twimg.com/media/DJYwUWfUEAMGscw.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906965503880699904"
+}
+{
+  "Data": {
+    "Id": 22,
+    "CreatedOn": "2017-09-10T19:06:27",
+    "City": "İZMİR",
+    "County": "MENDERES",
+    "TweetId": 906957058653741063,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Adnan Menderes Üniversitesi Hastanesi'nde yangından ilk kareler! https://t.co/c2umQKQ5dF https://t.co/K3RZwxR3Dx",
+    "URL": "https://t.co/c2umQKQ5dF",
+    "MediaURL": "http://pbs.twimg.com/media/DJYoozLWsBAOC1h.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906957058653741063",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T19:06:27",
+  "City": "İZMİR",
+  "County": "MENDERES",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906957058653741063,
+  "Text": "#SONDAKİKA Adnan Menderes Üniversitesi Hastanesi'nde yangından ilk kareler! https://t.co/c2umQKQ5dF https://t.co/K3RZwxR3Dx",
+  "URL": "https://t.co/c2umQKQ5dF",
+  "MediaURL": "http://pbs.twimg.com/media/DJYoozLWsBAOC1h.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906957058653741063"
+}
+{
+  "Data": {
+    "Id": 23,
+    "CreatedOn": "2017-09-10T19:00:45",
+    "City": "KONYA",
+    "County": null,
+    "TweetId": 906955624537346049,
+    "TweetScreenName": "cnnturk",
+    "Text": "Konya'da kız öğrenci yurdunun çatısında yangın çıktı https://t.co/eUBvgDsOA0 https://t.co/lOqJ5FpDom",
+    "URL": "https://t.co/eUBvgDsOA0",
+    "MediaURL": "http://pbs.twimg.com/media/DJYnVUUWsAEE1dO.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906955624537346049",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T19:00:45",
+  "City": "KONYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906955624537346049,
+  "Text": "Konya'da kız öğrenci yurdunun çatısında yangın çıktı https://t.co/eUBvgDsOA0 https://t.co/lOqJ5FpDom",
+  "URL": "https://t.co/eUBvgDsOA0",
+  "MediaURL": "http://pbs.twimg.com/media/DJYnVUUWsAEE1dO.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906955624537346049"
+}
+{
+  "Data": {
+    "Id": 24,
+    "CreatedOn": "2017-09-10T18:45:38",
+    "City": "İZMİR",
+    "County": "MENDERES",
+    "TweetId": 906951816348422144,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Adnan Menderes Üniversitesi Hastanesi'nde yangın https://t.co/p3MYbrUcum https://t.co/irO6jTNMu4",
+    "URL": "https://t.co/p3MYbrUcum",
+    "MediaURL": "http://pbs.twimg.com/media/DJYj3lRXUAAg7K2.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906951816348422144",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T18:45:38",
+  "City": "İZMİR",
+  "County": "MENDERES",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906951816348422144,
+  "Text": "#SONDAKİKA Adnan Menderes Üniversitesi Hastanesi'nde yangın https://t.co/p3MYbrUcum https://t.co/irO6jTNMu4",
+  "URL": "https://t.co/p3MYbrUcum",
+  "MediaURL": "http://pbs.twimg.com/media/DJYj3lRXUAAg7K2.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906951816348422144"
+}
+{
+  "Data": {
+    "Id": 25,
+    "CreatedOn": "2017-09-10T17:59:37",
+    "City": "KONYA",
+    "County": null,
+    "TweetId": 906940239536689153,
+    "TweetScreenName": "cnnturk",
+    "Text": "Konya'da kız öğrenci yurdunda yangın https://t.co/IA7PGnllF2 https://t.co/5xbNe9dyi3",
+    "URL": "https://t.co/IA7PGnllF2",
+    "MediaURL": "http://pbs.twimg.com/media/DJYZVv3XoAAxWa_.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906940239536689153",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T17:59:37",
+  "City": "KONYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906940239536689153,
+  "Text": "Konya'da kız öğrenci yurdunda yangın https://t.co/IA7PGnllF2 https://t.co/5xbNe9dyi3",
+  "URL": "https://t.co/IA7PGnllF2",
+  "MediaURL": "http://pbs.twimg.com/media/DJYZVv3XoAAxWa_.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906940239536689153"
+}
+{
+  "Data": {
+    "Id": 26,
+    "CreatedOn": "2017-09-10T16:50:02",
+    "City": "KONYA",
+    "County": null,
+    "TweetId": 906922726224531456,
+    "TweetScreenName": "cnnturk",
+    "Text": "Konya'da kız öğrenci yurdunda yangın https://t.co/CEVha3Kybm https://t.co/23hPafGe9M",
+    "URL": "https://t.co/CEVha3Kybm",
+    "MediaURL": "http://pbs.twimg.com/media/DJYJaUuWAAEeQlh.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/906922726224531456",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-10T16:50:02",
+  "City": "KONYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 906922726224531456,
+  "Text": "Konya'da kız öğrenci yurdunda yangın https://t.co/CEVha3Kybm https://t.co/23hPafGe9M",
+  "URL": "https://t.co/CEVha3Kybm",
+  "MediaURL": "http://pbs.twimg.com/media/DJYJaUuWAAEeQlh.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/906922726224531456"
+}
+{
+  "Data": {
+    "Id": 27,
+    "CreatedOn": "2017-09-13T18:50:02",
+    "City": "EDİRNE",
+    "County": null,
+    "TweetId": 908040090387193857,
+    "TweetScreenName": "cnnturk",
+    "Text": "Edirne'de, çöpten elektrik üretilecek https://t.co/EJOJzGxxC2 https://t.co/D78KN8XuS5",
+    "URL": "https://t.co/EJOJzGxxC2",
+    "MediaURL": "http://pbs.twimg.com/media/DJoBpc-XoAUOzLV.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908040090387193857",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T18:50:02",
+  "City": "EDİRNE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908040090387193857,
+  "Text": "Edirne'de, çöpten elektrik üretilecek https://t.co/EJOJzGxxC2 https://t.co/D78KN8XuS5",
+  "URL": "https://t.co/EJOJzGxxC2",
+  "MediaURL": "http://pbs.twimg.com/media/DJoBpc-XoAUOzLV.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908040090387193857"
+}
+{
+  "Data": {
+    "Id": 28,
+    "CreatedOn": "2017-09-16T08:39:37",
+    "City": "ÇANAKKALE",
+    "County": null,
+    "TweetId": 908973636157104128,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Çanakkale'de deprem https://t.co/wFNXRUdYAw https://t.co/iMPgFoOVQl",
+    "URL": "https://t.co/wFNXRUdYAw",
+    "MediaURL": "http://pbs.twimg.com/media/DJ1StBxWsAACHP6.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908973636157104128",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T08:39:37",
+  "City": "ÇANAKKALE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908973636157104128,
+  "Text": "#SONDAKİKA Çanakkale'de deprem https://t.co/wFNXRUdYAw https://t.co/iMPgFoOVQl",
+  "URL": "https://t.co/wFNXRUdYAw",
+  "MediaURL": "http://pbs.twimg.com/media/DJ1StBxWsAACHP6.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908973636157104128"
+}
+{
+  "Data": {
+    "Id": 29,
+    "CreatedOn": "2017-09-11T04:39:13",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907077461728522240,
+    "TweetScreenName": "cnnturk",
+    "Text": "İstanbul depremi için seferberlik ilan ettik diyen Bakan Özhaseki: Sosyal tesisleri fon için satışa çıkardık… https://t.co/FhcpE1l9nd",
+    "URL": "https://t.co/FhcpE1l9nd",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/cnnturk/status/907077461728522240",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T04:39:13",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907077461728522240,
+  "Text": "İstanbul depremi için seferberlik ilan ettik diyen Bakan Özhaseki: Sosyal tesisleri fon için satışa çıkardık… https://t.co/FhcpE1l9nd",
+  "URL": "https://t.co/FhcpE1l9nd",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/cnnturk/status/907077461728522240"
+}
+{
+  "Data": {
+    "Id": 30,
+    "CreatedOn": "2017-09-20T01:32:24",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 910315677273280512,
+    "TweetScreenName": "cnnturk",
+    "Text": "İstanbul Gaziosmanpaşa'da polise silahlı saldırı: 1 şehit https://t.co/fdybhFJoQe https://t.co/5CSWhTPDYy",
+    "URL": "https://t.co/fdybhFJoQe",
+    "MediaURL": "http://pbs.twimg.com/media/DKIXSISXoAAoK60.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910315677273280512",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-20T01:32:24",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910315677273280512,
+  "Text": "İstanbul Gaziosmanpaşa'da polise silahlı saldırı: 1 şehit https://t.co/fdybhFJoQe https://t.co/5CSWhTPDYy",
+  "URL": "https://t.co/fdybhFJoQe",
+  "MediaURL": "http://pbs.twimg.com/media/DKIXSISXoAAoK60.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910315677273280512"
+}
+{
+  "Data": {
+    "Id": 31,
+    "CreatedOn": "2017-09-18T16:20:34",
+    "City": "BİNGÖL",
+    "County": null,
+    "TweetId": 909814412286005249,
+    "TweetScreenName": "cnnturk",
+    "Text": "Bingöl'de 22 bölgede geçici güvenlik bölgesi ilanı https://t.co/U90wbHFYC4 https://t.co/ZqrhLYBdjl",
+    "URL": "https://t.co/U90wbHFYC4",
+    "MediaURL": "http://pbs.twimg.com/media/DKBPYm_UMAExlp1.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909814412286005249",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T16:20:34",
+  "City": "BİNGÖL",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909814412286005249,
+  "Text": "Bingöl'de 22 bölgede geçici güvenlik bölgesi ilanı https://t.co/U90wbHFYC4 https://t.co/ZqrhLYBdjl",
+  "URL": "https://t.co/U90wbHFYC4",
+  "MediaURL": "http://pbs.twimg.com/media/DKBPYm_UMAExlp1.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909814412286005249"
+}
+{
+  "Data": {
+    "Id": 32,
+    "CreatedOn": "2017-09-18T07:05:07",
+    "City": "İSTANBUL",
+    "County": "TUZLA",
+    "TweetId": 909674629823901696,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/ekSjI4ErrO https://t.co/TH26uqFFJW",
+    "URL": "https://t.co/ekSjI4ErrO",
+    "MediaURL": "http://pbs.twimg.com/media/DJ_QQMYVwAAiPMX.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909674629823901696",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T07:05:07",
+  "City": "İSTANBUL",
+  "County": "TUZLA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909674629823901696,
+  "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/ekSjI4ErrO https://t.co/TH26uqFFJW",
+  "URL": "https://t.co/ekSjI4ErrO",
+  "MediaURL": "http://pbs.twimg.com/media/DJ_QQMYVwAAiPMX.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909674629823901696"
+}
+{
+  "Data": {
+    "Id": 33,
+    "CreatedOn": "2017-09-18T04:05:04",
+    "City": "İSTANBUL",
+    "County": "TUZLA",
+    "TweetId": 909629321081446400,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/Z9PQ8gO5bn https://t.co/V6vXDkLeVE",
+    "URL": "https://t.co/Z9PQ8gO5bn",
+    "MediaURL": "http://pbs.twimg.com/media/DJ-nC4cXkAAOVUS.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909629321081446400",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T04:05:04",
+  "City": "İSTANBUL",
+  "County": "TUZLA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909629321081446400,
+  "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/Z9PQ8gO5bn https://t.co/V6vXDkLeVE",
+  "URL": "https://t.co/Z9PQ8gO5bn",
+  "MediaURL": "http://pbs.twimg.com/media/DJ-nC4cXkAAOVUS.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909629321081446400"
+}
+{
+  "Data": {
+    "Id": 34,
+    "CreatedOn": "2017-09-17T20:15:09",
+    "City": "İSTANBUL",
+    "County": "TUZLA",
+    "TweetId": 909511062046855173,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/vWoNaMV0yl https://t.co/f1vO2vV57P",
+    "URL": "https://t.co/vWoNaMV0yl",
+    "MediaURL": "http://pbs.twimg.com/media/DJ87fT-XcAIrqXA.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909511062046855173",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T20:15:09",
+  "City": "İSTANBUL",
+  "County": "TUZLA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909511062046855173,
+  "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/vWoNaMV0yl https://t.co/f1vO2vV57P",
+  "URL": "https://t.co/vWoNaMV0yl",
+  "MediaURL": "http://pbs.twimg.com/media/DJ87fT-XcAIrqXA.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909511062046855173"
+}
+{
+  "Data": {
+    "Id": 35,
+    "CreatedOn": "2017-09-17T14:30:24",
+    "City": "İSTANBUL",
+    "County": "TUZLA",
+    "TweetId": 909424301014700033,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/Y65do26bQE https://t.co/kdsXovDsx0",
+    "URL": "https://t.co/Y65do26bQE",
+    "MediaURL": "http://pbs.twimg.com/media/DJ7slMlWkAEU7J4.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909424301014700033",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T14:30:24",
+  "City": "İSTANBUL",
+  "County": "TUZLA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909424301014700033,
+  "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/Y65do26bQE https://t.co/kdsXovDsx0",
+  "URL": "https://t.co/Y65do26bQE",
+  "MediaURL": "http://pbs.twimg.com/media/DJ7slMlWkAEU7J4.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909424301014700033"
+}
+{
+  "Data": {
+    "Id": 36,
+    "CreatedOn": "2017-09-17T13:50:16",
+    "City": "SİİRT",
+    "County": null,
+    "TweetId": 909414203265572864,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Siirt'te saldırı hazırlığındaki teröristlere operasyon https://t.co/CK1wVsYu2n https://t.co/X9lo4N2Ouv",
+    "URL": "https://t.co/CK1wVsYu2n",
+    "MediaURL": "http://pbs.twimg.com/media/DJ7jZX7XUAAjMfi.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909414203265572864",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T13:50:16",
+  "City": "SİİRT",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909414203265572864,
+  "Text": "#SONDAKİKA Siirt'te saldırı hazırlığındaki teröristlere operasyon https://t.co/CK1wVsYu2n https://t.co/X9lo4N2Ouv",
+  "URL": "https://t.co/CK1wVsYu2n",
+  "MediaURL": "http://pbs.twimg.com/media/DJ7jZX7XUAAjMfi.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909414203265572864"
+}
+{
+  "Data": {
+    "Id": 37,
+    "CreatedOn": "2017-09-17T12:20:09",
+    "City": "BURSA",
+    "County": null,
+    "TweetId": 909391524261236736,
+    "TweetScreenName": "cnnturk",
+    "Text": "Bursa'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/yFUYUkjaNS https://t.co/Q9BgfWyF5g",
+    "URL": "https://t.co/yFUYUkjaNS",
+    "MediaURL": "http://pbs.twimg.com/media/DJ7OxT8WkAEKa2G.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909391524261236736",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T12:20:09",
+  "City": "BURSA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909391524261236736,
+  "Text": "Bursa'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/yFUYUkjaNS https://t.co/Q9BgfWyF5g",
+  "URL": "https://t.co/yFUYUkjaNS",
+  "MediaURL": "http://pbs.twimg.com/media/DJ7OxT8WkAEKa2G.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909391524261236736"
+}
+{
+  "Data": {
+    "Id": 38,
+    "CreatedOn": "2017-09-17T09:55:06",
+    "City": "İSTANBUL",
+    "County": "TUZLA",
+    "TweetId": 909355019941576705,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/YKUgkx9Zaj https://t.co/7dO8Gh3a73",
+    "URL": "https://t.co/YKUgkx9Zaj",
+    "MediaURL": "http://pbs.twimg.com/media/DJ6tkeyWkAEXDR4.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909355019941576705",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T09:55:06",
+  "City": "İSTANBUL",
+  "County": "TUZLA",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909355019941576705,
+  "Text": "Tuzla'daki feci kaza güvenlik kamerasında https://t.co/YKUgkx9Zaj https://t.co/7dO8Gh3a73",
+  "URL": "https://t.co/YKUgkx9Zaj",
+  "MediaURL": "http://pbs.twimg.com/media/DJ6tkeyWkAEXDR4.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909355019941576705"
+}
+{
+  "Data": {
+    "Id": 39,
+    "CreatedOn": "2017-09-17T08:57:01",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 909340404402868224,
+    "TweetScreenName": "cnnturk",
+    "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/SQwNmaKrWZ https://t.co/DAK9afGBYO",
+    "URL": "https://t.co/SQwNmaKrWZ",
+    "MediaURL": "http://pbs.twimg.com/media/DJ6gRyTWsAAK7my.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909340404402868224",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T08:57:01",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909340404402868224,
+  "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/SQwNmaKrWZ https://t.co/DAK9afGBYO",
+  "URL": "https://t.co/SQwNmaKrWZ",
+  "MediaURL": "http://pbs.twimg.com/media/DJ6gRyTWsAAK7my.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909340404402868224"
+}
+{
+  "Data": {
+    "Id": 40,
+    "CreatedOn": "2017-09-17T07:57:01",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 909325304577052674,
+    "TweetScreenName": "cnnturk",
+    "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/PBXyO1erQ7 https://t.co/2L09whQo63",
+    "URL": "https://t.co/PBXyO1erQ7",
+    "MediaURL": "http://pbs.twimg.com/media/DJ6Siy0UQAAWwYv.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909325304577052674",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T07:57:01",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909325304577052674,
+  "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/PBXyO1erQ7 https://t.co/2L09whQo63",
+  "URL": "https://t.co/PBXyO1erQ7",
+  "MediaURL": "http://pbs.twimg.com/media/DJ6Siy0UQAAWwYv.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909325304577052674"
+}
+{
+  "Data": {
+    "Id": 41,
+    "CreatedOn": "2017-09-17T06:30:08",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 909303440773406720,
+    "TweetScreenName": "cnnturk",
+    "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/iaI84phj7m https://t.co/KUEtf9q6nz",
+    "URL": "https://t.co/iaI84phj7m",
+    "MediaURL": "http://pbs.twimg.com/media/DJ5-qLxW0AEXPVZ.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909303440773406720",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T06:30:08",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909303440773406720,
+  "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/iaI84phj7m https://t.co/KUEtf9q6nz",
+  "URL": "https://t.co/iaI84phj7m",
+  "MediaURL": "http://pbs.twimg.com/media/DJ5-qLxW0AEXPVZ.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909303440773406720"
+}
+{
+  "Data": {
+    "Id": 42,
+    "CreatedOn": "2017-09-16T20:55:01",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 909158706788671494,
+    "TweetScreenName": "cnnturk",
+    "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/4FGSIJPNX6 https://t.co/cwsXLXU4Cg",
+    "URL": "https://t.co/4FGSIJPNX6",
+    "MediaURL": "http://pbs.twimg.com/media/DJ37BivXkAA6RGW.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909158706788671494",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T20:55:01",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909158706788671494,
+  "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/4FGSIJPNX6 https://t.co/cwsXLXU4Cg",
+  "URL": "https://t.co/4FGSIJPNX6",
+  "MediaURL": "http://pbs.twimg.com/media/DJ37BivXkAA6RGW.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909158706788671494"
+}
+{
+  "Data": {
+    "Id": 43,
+    "CreatedOn": "2017-09-16T18:46:43",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 909126418835091463,
+    "TweetScreenName": "cnnturk",
+    "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/JwKBFJL2IB https://t.co/FLa1ujhHtp",
+    "URL": "https://t.co/JwKBFJL2IB",
+    "MediaURL": "http://pbs.twimg.com/media/DJ3dqI2X0AADkOA.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909126418835091463",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T18:46:43",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909126418835091463,
+  "Text": "Başbakan Yıldırım'dan referandum uyarısı: \"Ülkemiz için bir ulusal güvenlik meselesidir\" https://t.co/JwKBFJL2IB https://t.co/FLa1ujhHtp",
+  "URL": "https://t.co/JwKBFJL2IB",
+  "MediaURL": "http://pbs.twimg.com/media/DJ3dqI2X0AADkOA.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909126418835091463"
+}
+{
+  "Data": {
+    "Id": 44,
+    "CreatedOn": "2017-09-16T09:55:09",
+    "City": "İZMİR",
+    "County": null,
+    "TweetId": 908992643753021440,
+    "TweetScreenName": "cnnturk",
+    "Text": "İzmir'de bıçaklı kavga: 1'i ağır 3 yaralı https://t.co/46HofIySJN https://t.co/9lqExt5Ucx",
+    "URL": "https://t.co/46HofIySJN",
+    "MediaURL": "http://pbs.twimg.com/media/DJ1j_dRXUAE39R1.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908992643753021440",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T09:55:09",
+  "City": "İZMİR",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908992643753021440,
+  "Text": "İzmir'de bıçaklı kavga: 1'i ağır 3 yaralı https://t.co/46HofIySJN https://t.co/9lqExt5Ucx",
+  "URL": "https://t.co/46HofIySJN",
+  "MediaURL": "http://pbs.twimg.com/media/DJ1j_dRXUAE39R1.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908992643753021440"
+}
+{
+  "Data": {
+    "Id": 45,
+    "CreatedOn": "2017-09-16T06:50:14",
+    "City": "İZMİR",
+    "County": null,
+    "TweetId": 908946108604452864,
+    "TweetScreenName": "cnnturk",
+    "Text": "İzmir'de bıçaklı kavga: 1'i ağır 3 yaralı https://t.co/yJba1luVwT https://t.co/AjzeuPPiaH",
+    "URL": "https://t.co/yJba1luVwT",
+    "MediaURL": "http://pbs.twimg.com/media/DJ05qsNVwAAjIaW.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908946108604452864",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T06:50:14",
+  "City": "İZMİR",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908946108604452864,
+  "Text": "İzmir'de bıçaklı kavga: 1'i ağır 3 yaralı https://t.co/yJba1luVwT https://t.co/AjzeuPPiaH",
+  "URL": "https://t.co/yJba1luVwT",
+  "MediaURL": "http://pbs.twimg.com/media/DJ05qsNVwAAjIaW.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908946108604452864"
+}
+{
+  "Data": {
+    "Id": 46,
+    "CreatedOn": "2017-09-15T11:28:18",
+    "City": "BURSA",
+    "County": "YILDIRIM",
+    "TweetId": 908653700922724352,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Başbakan Yıldırım'dan 'cenazeye saldırı' olayıyla ilgili açıklama https://t.co/gGzNkGWj5M https://t.co/3uqiw6oRSJ",
+    "URL": "https://t.co/gGzNkGWj5M",
+    "MediaURL": "http://pbs.twimg.com/media/DJwvuSIUQAAfs0b.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908653700922724352",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T11:28:18",
+  "City": "BURSA",
+  "County": "YILDIRIM",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908653700922724352,
+  "Text": "#SONDAKİKA Başbakan Yıldırım'dan 'cenazeye saldırı' olayıyla ilgili açıklama https://t.co/gGzNkGWj5M https://t.co/3uqiw6oRSJ",
+  "URL": "https://t.co/gGzNkGWj5M",
+  "MediaURL": "http://pbs.twimg.com/media/DJwvuSIUQAAfs0b.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908653700922724352"
+}
+{
+  "Data": {
+    "Id": 47,
+    "CreatedOn": "2017-09-14T14:50:07",
+    "City": "AĞRI",
+    "County": null,
+    "TweetId": 908342100059619330,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ağrı'da saldırı hazırlığındaki teröristlere hava harekatı https://t.co/a3esCSI6HM https://t.co/i5f4NU8V6h",
+    "URL": "https://t.co/a3esCSI6HM",
+    "MediaURL": "http://pbs.twimg.com/media/DJsUUz0W4AAUKnf.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908342100059619330",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-14T14:50:07",
+  "City": "AĞRI",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908342100059619330,
+  "Text": "Ağrı'da saldırı hazırlığındaki teröristlere hava harekatı https://t.co/a3esCSI6HM https://t.co/i5f4NU8V6h",
+  "URL": "https://t.co/a3esCSI6HM",
+  "MediaURL": "http://pbs.twimg.com/media/DJsUUz0W4AAUKnf.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908342100059619330"
+}
+{
+  "Data": {
+    "Id": 48,
+    "CreatedOn": "2017-09-14T05:12:15",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 908196673897340928,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara Valiliğinden Aysel Tuğluk'un annesinin cenazesine saldırıyla ilgili açıklama https://t.co/hpXTljT4ct https://t.co/gVtl3wvFLa",
+    "URL": "https://t.co/hpXTljT4ct",
+    "MediaURL": "http://pbs.twimg.com/media/DJqQD3iUQAAO-I-.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908196673897340928",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-14T05:12:15",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908196673897340928,
+  "Text": "Ankara Valiliğinden Aysel Tuğluk'un annesinin cenazesine saldırıyla ilgili açıklama https://t.co/hpXTljT4ct https://t.co/gVtl3wvFLa",
+  "URL": "https://t.co/hpXTljT4ct",
+  "MediaURL": "http://pbs.twimg.com/media/DJqQD3iUQAAO-I-.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908196673897340928"
+}
+{
+  "Data": {
+    "Id": 49,
+    "CreatedOn": "2017-09-13T19:59:45",
+    "City": "İSTANBUL",
+    "County": "MALTEPE",
+    "TweetId": 908057635043385344,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Maltepe'de kahvehaneye silahlı saldırı https://t.co/EKCiO1cNc0 https://t.co/omcOYdFpxg",
+    "URL": "https://t.co/EKCiO1cNc0",
+    "MediaURL": "http://pbs.twimg.com/media/DJoRmulUMAAvYn1.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908057635043385344",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T19:59:45",
+  "City": "İSTANBUL",
+  "County": "MALTEPE",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908057635043385344,
+  "Text": "#SONDAKİKA Maltepe'de kahvehaneye silahlı saldırı https://t.co/EKCiO1cNc0 https://t.co/omcOYdFpxg",
+  "URL": "https://t.co/EKCiO1cNc0",
+  "MediaURL": "http://pbs.twimg.com/media/DJoRmulUMAAvYn1.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908057635043385344"
+}
+{
+  "Data": {
+    "Id": 50,
+    "CreatedOn": "2017-09-13T07:00:55",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907861632667275269,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara'da öldürdüler Konya'da böyle yakalandılar...https://t.co/bHPWvb3gDb https://t.co/8lfwOAD7p1",
+    "URL": "https://t.co/bHPWvb3gDb",
+    "MediaURL": "http://pbs.twimg.com/media/DJlfV5jXcAAanYs.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907861632667275269",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T07:00:55",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907861632667275269,
+  "Text": "Ankara'da öldürdüler Konya'da böyle yakalandılar...https://t.co/bHPWvb3gDb https://t.co/8lfwOAD7p1",
+  "URL": "https://t.co/bHPWvb3gDb",
+  "MediaURL": "http://pbs.twimg.com/media/DJlfV5jXcAAanYs.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907861632667275269"
+}
+{
+  "Data": {
+    "Id": 51,
+    "CreatedOn": "2017-09-13T05:42:24",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907841873460555776,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara'da öldürdüler Konya'da böyle yakalandılar...https://t.co/xkM9NgC1fs https://t.co/ugkUbvOvRt",
+    "URL": "https://t.co/xkM9NgC1fs",
+    "MediaURL": "http://pbs.twimg.com/media/DJlNXvcX0AAedy3.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907841873460555776",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T05:42:24",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907841873460555776,
+  "Text": "Ankara'da öldürdüler Konya'da böyle yakalandılar...https://t.co/xkM9NgC1fs https://t.co/ugkUbvOvRt",
+  "URL": "https://t.co/xkM9NgC1fs",
+  "MediaURL": "http://pbs.twimg.com/media/DJlNXvcX0AAedy3.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907841873460555776"
+}
+{
+  "Data": {
+    "Id": 52,
+    "CreatedOn": "2017-09-12T08:15:08",
+    "City": "DİYARBAKIR",
+    "County": "SİLVAN",
+    "TweetId": 907517922947604480,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Silvan Belediyesi Özel Kalem Müdürü'nün aracına saldırı https://t.co/K7TYwNtqUn https://t.co/RIFGvyY3jn",
+    "URL": "https://t.co/K7TYwNtqUn",
+    "MediaURL": "http://pbs.twimg.com/media/DJgmrxDW4AAFQhK.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907517922947604480",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T08:15:08",
+  "City": "DİYARBAKIR",
+  "County": "SİLVAN",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907517922947604480,
+  "Text": "#SONDAKİKA Silvan Belediyesi Özel Kalem Müdürü'nün aracına saldırı https://t.co/K7TYwNtqUn https://t.co/RIFGvyY3jn",
+  "URL": "https://t.co/K7TYwNtqUn",
+  "MediaURL": "http://pbs.twimg.com/media/DJgmrxDW4AAFQhK.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907517922947604480"
+}
+{
+  "Data": {
+    "Id": 53,
+    "CreatedOn": "2017-09-12T07:20:42",
+    "City": "ANTALYA",
+    "County": "MANAVGAT",
+    "TweetId": 907504226703736832,
+    "TweetScreenName": "cnnturk",
+    "Text": "Manavgat otogarında bıçaklı kavga: Yaralılar var https://t.co/r5ZrIHYZmy https://t.co/xkKG9II4IV",
+    "URL": "https://t.co/r5ZrIHYZmy",
+    "MediaURL": "http://pbs.twimg.com/media/DJgaSKGX0AAymr8.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907504226703736832",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T07:20:42",
+  "City": "ANTALYA",
+  "County": "MANAVGAT",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907504226703736832,
+  "Text": "Manavgat otogarında bıçaklı kavga: Yaralılar var https://t.co/r5ZrIHYZmy https://t.co/xkKG9II4IV",
+  "URL": "https://t.co/r5ZrIHYZmy",
+  "MediaURL": "http://pbs.twimg.com/media/DJgaSKGX0AAymr8.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907504226703736832"
+}
+{
+  "Data": {
+    "Id": 54,
+    "CreatedOn": "2017-09-12T07:00:23",
+    "City": "ANTALYA",
+    "County": null,
+    "TweetId": 907499110739083265,
+    "TweetScreenName": "cnnturk",
+    "Text": "İngiliz vatandaşı Antalya'daki AVM'de hırsızlık yaparken yakalandı https://t.co/etkGUBqzUa https://t.co/ySeFg4G9QC",
+    "URL": "https://t.co/etkGUBqzUa",
+    "MediaURL": "http://pbs.twimg.com/media/DJgVoTCUIAAgrgI.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907499110739083265",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T07:00:23",
+  "City": "ANTALYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907499110739083265,
+  "Text": "İngiliz vatandaşı Antalya'daki AVM'de hırsızlık yaparken yakalandı https://t.co/etkGUBqzUa https://t.co/ySeFg4G9QC",
+  "URL": "https://t.co/etkGUBqzUa",
+  "MediaURL": "http://pbs.twimg.com/media/DJgVoTCUIAAgrgI.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907499110739083265"
+}
+{
+  "Data": {
+    "Id": 55,
+    "CreatedOn": "2017-09-12T03:45:05",
+    "City": "SAMSUN",
+    "County": null,
+    "TweetId": 907449963357114371,
+    "TweetScreenName": "cnnturk",
+    "Text": "Samsun'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/pYLx30kT2i https://t.co/sHqi72KHL2",
+    "URL": "https://t.co/pYLx30kT2i",
+    "MediaURL": "http://pbs.twimg.com/media/DJfo7odXoAAjeuO.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907449963357114371",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T03:45:05",
+  "City": "SAMSUN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907449963357114371,
+  "Text": "Samsun'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/pYLx30kT2i https://t.co/sHqi72KHL2",
+  "URL": "https://t.co/pYLx30kT2i",
+  "MediaURL": "http://pbs.twimg.com/media/DJfo7odXoAAjeuO.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907449963357114371"
+}
+{
+  "Data": {
+    "Id": 56,
+    "CreatedOn": "2017-09-11T19:10:11",
+    "City": "ANTALYA",
+    "County": null,
+    "TweetId": 907320384093130752,
+    "TweetScreenName": "cnnturk",
+    "Text": "İngiliz vatandaşı Antalya'daki AVM'de hırsızlık yaparken yakalandı https://t.co/L5dNdxAQWx https://t.co/miRwZcuUfL",
+    "URL": "https://t.co/L5dNdxAQWx",
+    "MediaURL": "http://pbs.twimg.com/media/DJdzFE9VwAAaDGU.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907320384093130752",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T19:10:11",
+  "City": "ANTALYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907320384093130752,
+  "Text": "İngiliz vatandaşı Antalya'daki AVM'de hırsızlık yaparken yakalandı https://t.co/L5dNdxAQWx https://t.co/miRwZcuUfL",
+  "URL": "https://t.co/L5dNdxAQWx",
+  "MediaURL": "http://pbs.twimg.com/media/DJdzFE9VwAAaDGU.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907320384093130752"
+}
+{
+  "Data": {
+    "Id": 57,
+    "CreatedOn": "2017-09-11T17:40:02",
+    "City": "SAMSUN",
+    "County": null,
+    "TweetId": 907297697543180288,
+    "TweetScreenName": "cnnturk",
+    "Text": "Samsun'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/8s4Fc4bNIF https://t.co/mgDuELK4LP",
+    "URL": "https://t.co/8s4Fc4bNIF",
+    "MediaURL": "http://pbs.twimg.com/media/DJdeclXXcAA-qNh.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907297697543180288",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T17:40:02",
+  "City": "SAMSUN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907297697543180288,
+  "Text": "Samsun'da silahlı saldırı: 1 kişi hayatını kaybetti https://t.co/8s4Fc4bNIF https://t.co/mgDuELK4LP",
+  "URL": "https://t.co/8s4Fc4bNIF",
+  "MediaURL": "http://pbs.twimg.com/media/DJdeclXXcAA-qNh.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907297697543180288"
+}
+{
+  "Data": {
+    "Id": 58,
+    "CreatedOn": "2017-09-11T00:55:49",
+    "City": "İZMİR",
+    "County": null,
+    "TweetId": 907044977460604928,
+    "TweetScreenName": "cnnturk",
+    "Text": "İzmir'de düğün çıkışı silahlı saldırı: 1 ölü, 1 yaralı https://t.co/zr0yeKJIL0 https://t.co/uyzGGcYPHb",
+    "URL": "https://t.co/zr0yeKJIL0",
+    "MediaURL": "http://pbs.twimg.com/media/DJZ4mSLXcAACzqs.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907044977460604928",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T00:55:49",
+  "City": "İZMİR",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907044977460604928,
+  "Text": "İzmir'de düğün çıkışı silahlı saldırı: 1 ölü, 1 yaralı https://t.co/zr0yeKJIL0 https://t.co/uyzGGcYPHb",
+  "URL": "https://t.co/zr0yeKJIL0",
+  "MediaURL": "http://pbs.twimg.com/media/DJZ4mSLXcAACzqs.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907044977460604928"
+}
+{
+  "Data": {
+    "Id": 59,
+    "CreatedOn": "2017-09-20T06:00:43",
+    "City": "ANTALYA",
+    "County": null,
+    "TweetId": 910383200500961280,
+    "TweetScreenName": "cnnturk",
+    "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/JSs1DGqttR https://t.co/VQq62vdfiz",
+    "URL": "https://t.co/JSs1DGqttR",
+    "MediaURL": "http://pbs.twimg.com/media/DKJUsdUXoAEAIx6.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910383200500961280",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-20T06:00:43",
+  "City": "ANTALYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910383200500961280,
+  "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/JSs1DGqttR https://t.co/VQq62vdfiz",
+  "URL": "https://t.co/JSs1DGqttR",
+  "MediaURL": "http://pbs.twimg.com/media/DKJUsdUXoAEAIx6.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910383200500961280"
+}
+{
+  "Data": {
+    "Id": 60,
+    "CreatedOn": "2017-09-19T23:33:15",
+    "City": "ADIYAMAN",
+    "County": null,
+    "TweetId": 910285691128598528,
+    "TweetScreenName": "cnnturk",
+    "Text": "Adıyaman'da kaza ucuz atlatıldı https://t.co/UM9Bs7S0Md https://t.co/d6uvGzPJ0A",
+    "URL": "https://t.co/UM9Bs7S0Md",
+    "MediaURL": "http://pbs.twimg.com/media/DKH8AoRWsAEn6zq.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910285691128598528",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-19T23:33:15",
+  "City": "ADIYAMAN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910285691128598528,
+  "Text": "Adıyaman'da kaza ucuz atlatıldı https://t.co/UM9Bs7S0Md https://t.co/d6uvGzPJ0A",
+  "URL": "https://t.co/UM9Bs7S0Md",
+  "MediaURL": "http://pbs.twimg.com/media/DKH8AoRWsAEn6zq.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910285691128598528"
+}
+{
+  "Data": {
+    "Id": 61,
+    "CreatedOn": "2017-09-19T18:05:06",
+    "City": "ANTALYA",
+    "County": null,
+    "TweetId": 910203109670113282,
+    "TweetScreenName": "cnnturk",
+    "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/MdRViAJ7TD https://t.co/ZownGUKuJ5",
+    "URL": "https://t.co/MdRViAJ7TD",
+    "MediaURL": "http://pbs.twimg.com/media/DKGw5xsXcAA92WL.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910203109670113282",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-19T18:05:06",
+  "City": "ANTALYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910203109670113282,
+  "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/MdRViAJ7TD https://t.co/ZownGUKuJ5",
+  "URL": "https://t.co/MdRViAJ7TD",
+  "MediaURL": "http://pbs.twimg.com/media/DKGw5xsXcAA92WL.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910203109670113282"
+}
+{
+  "Data": {
+    "Id": 62,
+    "CreatedOn": "2017-09-19T09:35:08",
+    "City": "ANTALYA",
+    "County": null,
+    "TweetId": 910074773195116544,
+    "TweetScreenName": "cnnturk",
+    "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/mjHwIkmODL https://t.co/sKII5hfu2s",
+    "URL": "https://t.co/mjHwIkmODL",
+    "MediaURL": "http://pbs.twimg.com/media/DKE8LpbWkAE8yw6.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910074773195116544",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-19T09:35:08",
+  "City": "ANTALYA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910074773195116544,
+  "Text": "41 yıldır gitmediği Antalya'dan trafik cezası geldi https://t.co/mjHwIkmODL https://t.co/sKII5hfu2s",
+  "URL": "https://t.co/mjHwIkmODL",
+  "MediaURL": "http://pbs.twimg.com/media/DKE8LpbWkAE8yw6.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910074773195116544"
+}
+{
+  "Data": {
+    "Id": 63,
+    "CreatedOn": "2017-09-19T07:20:05",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 910040783419473920,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara'daki arabaya Antalya'dan ceza geldi https://t.co/IEhBILtAr2 https://t.co/dS8DDAlKdu",
+    "URL": "https://t.co/IEhBILtAr2",
+    "MediaURL": "http://pbs.twimg.com/media/DKEdRI7U8AAnjrb.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/910040783419473920",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-19T07:20:05",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 910040783419473920,
+  "Text": "Ankara'daki arabaya Antalya'dan ceza geldi https://t.co/IEhBILtAr2 https://t.co/dS8DDAlKdu",
+  "URL": "https://t.co/IEhBILtAr2",
+  "MediaURL": "http://pbs.twimg.com/media/DKEdRI7U8AAnjrb.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/910040783419473920"
+}
+{
+  "Data": {
+    "Id": 64,
+    "CreatedOn": "2017-09-18T21:12:25",
+    "City": "EDİRNE",
+    "County": null,
+    "TweetId": 909887859833933824,
+    "TweetScreenName": "cnnturk",
+    "Text": "TEM'de 5 araç birbirine girdi... Edirne yönüne trafik durdu, yaralılar var https://t.co/l8nw9aFY7g https://t.co/dxoHRcMhT4",
+    "URL": "https://t.co/l8nw9aFY7g",
+    "MediaURL": "http://pbs.twimg.com/media/DKCSLxSWkAUqYb5.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909887859833933824",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T21:12:25",
+  "City": "EDİRNE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909887859833933824,
+  "Text": "TEM'de 5 araç birbirine girdi... Edirne yönüne trafik durdu, yaralılar var https://t.co/l8nw9aFY7g https://t.co/dxoHRcMhT4",
+  "URL": "https://t.co/l8nw9aFY7g",
+  "MediaURL": "http://pbs.twimg.com/media/DKCSLxSWkAUqYb5.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909887859833933824"
+}
+{
+  "Data": {
+    "Id": 65,
+    "CreatedOn": "2017-09-18T06:35:59",
+    "City": "ÇANAKKALE",
+    "County": null,
+    "TweetId": 909667296863510528,
+    "TweetScreenName": "cnnturk",
+    "Text": "Çanakkale'de trafik kazası: 2 ölü, 1 yaralı https://t.co/Qdl534mcvj https://t.co/cR85JuluCg",
+    "URL": "https://t.co/Qdl534mcvj",
+    "MediaURL": "http://pbs.twimg.com/media/DJ_JlacXUAE_vR7.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909667296863510528",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T06:35:59",
+  "City": "ÇANAKKALE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909667296863510528,
+  "Text": "Çanakkale'de trafik kazası: 2 ölü, 1 yaralı https://t.co/Qdl534mcvj https://t.co/cR85JuluCg",
+  "URL": "https://t.co/Qdl534mcvj",
+  "MediaURL": "http://pbs.twimg.com/media/DJ_JlacXUAE_vR7.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909667296863510528"
+}
+{
+  "Data": {
+    "Id": 66,
+    "CreatedOn": "2017-09-18T05:57:52",
+    "City": "ÇANAKKALE",
+    "County": null,
+    "TweetId": 909657707065561088,
+    "TweetScreenName": "cnnturk",
+    "Text": "Çanakkale'de trafik kazası: 2 ölü, 1 yaralı https://t.co/MlNRglduet https://t.co/NFzPLTu3o8",
+    "URL": "https://t.co/MlNRglduet",
+    "MediaURL": "http://pbs.twimg.com/media/DJ_A3OfW0AEHC_t.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909657707065561088",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T05:57:52",
+  "City": "ÇANAKKALE",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909657707065561088,
+  "Text": "Çanakkale'de trafik kazası: 2 ölü, 1 yaralı https://t.co/MlNRglduet https://t.co/NFzPLTu3o8",
+  "URL": "https://t.co/MlNRglduet",
+  "MediaURL": "http://pbs.twimg.com/media/DJ_A3OfW0AEHC_t.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909657707065561088"
+}
+{
+  "Data": {
+    "Id": 67,
+    "CreatedOn": "2017-09-18T05:45:02",
+    "City": "KASTAMONU",
+    "County": "ARAÇ",
+    "TweetId": 909654474892947456,
+    "TweetScreenName": "cnnturk",
+    "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/ihbc4zw6wu",
+    "URL": "https://t.co/ihbc4zw6wu",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/cnnturk/status/909654474892947456",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T05:45:02",
+  "City": "KASTAMONU",
+  "County": "ARAÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909654474892947456,
+  "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/ihbc4zw6wu",
+  "URL": "https://t.co/ihbc4zw6wu",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/cnnturk/status/909654474892947456"
+}
+{
+  "Data": {
+    "Id": 68,
+    "CreatedOn": "2017-09-17T19:15:12",
+    "City": "KASTAMONU",
+    "County": "ARAÇ",
+    "TweetId": 909495973747060736,
+    "TweetScreenName": "cnnturk",
+    "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/H9GGP2Sa51",
+    "URL": "https://t.co/H9GGP2Sa51",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/cnnturk/status/909495973747060736",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T19:15:12",
+  "City": "KASTAMONU",
+  "County": "ARAÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909495973747060736,
+  "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/H9GGP2Sa51",
+  "URL": "https://t.co/H9GGP2Sa51",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/cnnturk/status/909495973747060736"
+}
+{
+  "Data": {
+    "Id": 69,
+    "CreatedOn": "2017-09-17T17:09:03",
+    "City": "İSTANBUL",
+    "County": "KADIKÖY",
+    "TweetId": 909464226154115072,
+    "TweetScreenName": "cnnturk",
+    "Text": "Kadıköy'de otomobil belediye otobüsünün altına girdi! https://t.co/ou2mXFDtsd https://t.co/oCm011oPdA",
+    "URL": "https://t.co/ou2mXFDtsd",
+    "MediaURL": "https://video.twimg.com/amplify_video/909463847429398535/vid/320x180/OFoIDlZNZreWE9Ht.mp4",
+    "TweetURL": "http://twitter.com/cnnturk/status/909464226154115072",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T17:09:03",
+  "City": "İSTANBUL",
+  "County": "KADIKÖY",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909464226154115072,
+  "Text": "Kadıköy'de otomobil belediye otobüsünün altına girdi! https://t.co/ou2mXFDtsd https://t.co/oCm011oPdA",
+  "URL": "https://t.co/ou2mXFDtsd",
+  "MediaURL": "https://video.twimg.com/amplify_video/909463847429398535/vid/320x180/OFoIDlZNZreWE9Ht.mp4",
+  "TweetURL": "http://twitter.com/cnnturk/status/909464226154115072"
+}
+{
+  "Data": {
+    "Id": 70,
+    "CreatedOn": "2017-09-17T16:55:01",
+    "City": "KASTAMONU",
+    "County": "ARAÇ",
+    "TweetId": 909460696374669312,
+    "TweetScreenName": "cnnturk",
+    "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/gOFWpnJheU",
+    "URL": "https://t.co/gOFWpnJheU",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/cnnturk/status/909460696374669312",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T16:55:01",
+  "City": "KASTAMONU",
+  "County": "ARAÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909460696374669312,
+  "Text": "Lüks aracına yazılan trafik cezasına itiraz etti: \"Bu araç bu sesi çıkardığı için vergi ödüyorum\"… https://t.co/gOFWpnJheU",
+  "URL": "https://t.co/gOFWpnJheU",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/cnnturk/status/909460696374669312"
+}
+{
+  "Data": {
+    "Id": 71,
+    "CreatedOn": "2017-09-17T16:51:07",
+    "City": "İSTANBUL",
+    "County": "KADIKÖY",
+    "TweetId": 909459716132282368,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SONDAKİKA Kadıköy'de feci kaza: Ölü ve yaralılar var https://t.co/Sbm6psN2nY https://t.co/TjTtXN1WSU",
+    "URL": "https://t.co/Sbm6psN2nY",
+    "MediaURL": "http://pbs.twimg.com/media/DJ8MyjLWsAMwdwO.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909459716132282368",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T16:51:07",
+  "City": "İSTANBUL",
+  "County": "KADIKÖY",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909459716132282368,
+  "Text": "#SONDAKİKA Kadıköy'de feci kaza: Ölü ve yaralılar var https://t.co/Sbm6psN2nY https://t.co/TjTtXN1WSU",
+  "URL": "https://t.co/Sbm6psN2nY",
+  "MediaURL": "http://pbs.twimg.com/media/DJ8MyjLWsAMwdwO.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909459716132282368"
+}
+{
+  "Data": {
+    "Id": 72,
+    "CreatedOn": "2017-09-17T16:15:03",
+    "City": "UŞAK",
+    "County": null,
+    "TweetId": 909450636101550080,
+    "TweetScreenName": "cnnturk",
+    "Text": "Uşak'ta feci kaza: 6 yaralı https://t.co/54EWjt9TKK https://t.co/HmA0cDVhQ5",
+    "URL": "https://t.co/54EWjt9TKK",
+    "MediaURL": "http://pbs.twimg.com/media/DJ8EiGBXoAATQ-3.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/909450636101550080",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T16:15:03",
+  "City": "UŞAK",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 909450636101550080,
+  "Text": "Uşak'ta feci kaza: 6 yaralı https://t.co/54EWjt9TKK https://t.co/HmA0cDVhQ5",
+  "URL": "https://t.co/54EWjt9TKK",
+  "MediaURL": "http://pbs.twimg.com/media/DJ8EiGBXoAATQ-3.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/909450636101550080"
+}
+{
+  "Data": {
+    "Id": 73,
+    "CreatedOn": "2017-09-15T20:47:50",
+    "City": "BİNGÖL",
+    "County": "GENÇ",
+    "TweetId": 908794508875362304,
+    "TweetScreenName": "cnnturk",
+    "Text": "ABD'de korkunç kaza: 3 Türk genç kızı yaşamını yitirdi! https://t.co/RPyoQFar19 https://t.co/1Nezno3tov",
+    "URL": "https://t.co/RPyoQFar19",
+    "MediaURL": "http://pbs.twimg.com/media/DJyvybaWsAAfhg9.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908794508875362304",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T20:47:50",
+  "City": "BİNGÖL",
+  "County": "GENÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908794508875362304,
+  "Text": "ABD'de korkunç kaza: 3 Türk genç kızı yaşamını yitirdi! https://t.co/RPyoQFar19 https://t.co/1Nezno3tov",
+  "URL": "https://t.co/RPyoQFar19",
+  "MediaURL": "http://pbs.twimg.com/media/DJyvybaWsAAfhg9.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908794508875362304"
+}
+{
+  "Data": {
+    "Id": 74,
+    "CreatedOn": "2017-09-15T09:46:18",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 908628028921647104,
+    "TweetScreenName": "cnnturk",
+    "Text": "Tatil bitti, İstanbul'da trafik çilesi başladı... İşte trafiğin en fazla olacağı gün! https://t.co/oVrnL756kx https://t.co/yDLONuZVDN",
+    "URL": "https://t.co/oVrnL756kx",
+    "MediaURL": "http://pbs.twimg.com/media/DJwYYA7VoAAkUSW.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908628028921647104",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T09:46:18",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908628028921647104,
+  "Text": "Tatil bitti, İstanbul'da trafik çilesi başladı... İşte trafiğin en fazla olacağı gün! https://t.co/oVrnL756kx https://t.co/yDLONuZVDN",
+  "URL": "https://t.co/oVrnL756kx",
+  "MediaURL": "http://pbs.twimg.com/media/DJwYYA7VoAAkUSW.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908628028921647104"
+}
+{
+  "Data": {
+    "Id": 75,
+    "CreatedOn": "2017-09-15T06:35:01",
+    "City": "BİNGÖL",
+    "County": "GENÇ",
+    "TweetId": 908579892895404032,
+    "TweetScreenName": "cnnturk",
+    "Text": "ABD'de korkunç kaza: 3 Türk genç kızı yaşamını yitirdi! https://t.co/5NMOSLdGxt https://t.co/lb8l9NWO7J",
+    "URL": "https://t.co/5NMOSLdGxt",
+    "MediaURL": "http://pbs.twimg.com/media/DJvsmHxWsAEN4Au.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908579892895404032",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T06:35:01",
+  "City": "BİNGÖL",
+  "County": "GENÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908579892895404032,
+  "Text": "ABD'de korkunç kaza: 3 Türk genç kızı yaşamını yitirdi! https://t.co/5NMOSLdGxt https://t.co/lb8l9NWO7J",
+  "URL": "https://t.co/5NMOSLdGxt",
+  "MediaURL": "http://pbs.twimg.com/media/DJvsmHxWsAEN4Au.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908579892895404032"
+}
+{
+  "Data": {
+    "Id": 76,
+    "CreatedOn": "2017-09-15T06:05:06",
+    "City": "BİNGÖL",
+    "County": "GENÇ",
+    "TweetId": 908572364664737793,
+    "TweetScreenName": "cnnturk",
+    "Text": "ABD'de korkunç kaza: Work and Travel kapsamındaki 3 Türk genç kızı yaşamını yitirdi! https://t.co/X89QROaJrI https://t.co/pbrLUsLmI8",
+    "URL": "https://t.co/X89QROaJrI",
+    "MediaURL": "http://pbs.twimg.com/media/DJvlv2jVAAA_sMk.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908572364664737793",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T06:05:06",
+  "City": "BİNGÖL",
+  "County": "GENÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908572364664737793,
+  "Text": "ABD'de korkunç kaza: Work and Travel kapsamındaki 3 Türk genç kızı yaşamını yitirdi! https://t.co/X89QROaJrI https://t.co/pbrLUsLmI8",
+  "URL": "https://t.co/X89QROaJrI",
+  "MediaURL": "http://pbs.twimg.com/media/DJvlv2jVAAA_sMk.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908572364664737793"
+}
+{
+  "Data": {
+    "Id": 77,
+    "CreatedOn": "2017-09-15T02:14:53",
+    "City": "BİNGÖL",
+    "County": "GENÇ",
+    "TweetId": 908514425757470720,
+    "TweetScreenName": "cnnturk",
+    "Text": "#SonDakika... ABD'de korkunç kaza: 3 Türk genç kız hayatını kaybetti https://t.co/AE0wxPj4uI https://t.co/6an4ZeKvjj",
+    "URL": "https://t.co/AE0wxPj4uI",
+    "MediaURL": "http://pbs.twimg.com/media/DJuxDdvWkAAbPko.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/908514425757470720",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T02:14:53",
+  "City": "BİNGÖL",
+  "County": "GENÇ",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 908514425757470720,
+  "Text": "#SonDakika... ABD'de korkunç kaza: 3 Türk genç kız hayatını kaybetti https://t.co/AE0wxPj4uI https://t.co/6an4ZeKvjj",
+  "URL": "https://t.co/AE0wxPj4uI",
+  "MediaURL": "http://pbs.twimg.com/media/DJuxDdvWkAAbPko.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/908514425757470720"
+}
+{
+  "Data": {
+    "Id": 78,
+    "CreatedOn": "2017-09-13T15:00:32",
+    "City": "TEKİRDAĞ",
+    "County": "SARAY",
+    "TweetId": 907982334326177793,
+    "TweetScreenName": "cnnturk",
+    "Text": "Aksaray'da kaza: Ölü ve yaralılar var https://t.co/CF7gDgiipe https://t.co/kfu0zoYcke",
+    "URL": "https://t.co/CF7gDgiipe",
+    "MediaURL": "http://pbs.twimg.com/media/DJnNHouVwAIW0bg.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907982334326177793",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T15:00:32",
+  "City": "TEKİRDAĞ",
+  "County": "SARAY",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907982334326177793,
+  "Text": "Aksaray'da kaza: Ölü ve yaralılar var https://t.co/CF7gDgiipe https://t.co/kfu0zoYcke",
+  "URL": "https://t.co/CF7gDgiipe",
+  "MediaURL": "http://pbs.twimg.com/media/DJnNHouVwAIW0bg.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907982334326177793"
+}
+{
+  "Data": {
+    "Id": 79,
+    "CreatedOn": "2017-09-13T02:15:07",
+    "City": "ERZİNCAN",
+    "County": null,
+    "TweetId": 907789709086162944,
+    "TweetScreenName": "cnnturk",
+    "Text": "Erzincan'da feci kaza: 4 ölü, 2 yaralı https://t.co/jVnFrXfWj2 https://t.co/oZWY66mBzI",
+    "URL": "https://t.co/jVnFrXfWj2",
+    "MediaURL": "http://pbs.twimg.com/media/DJkd7ZFWsAAwYao.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907789709086162944",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T02:15:07",
+  "City": "ERZİNCAN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907789709086162944,
+  "Text": "Erzincan'da feci kaza: 4 ölü, 2 yaralı https://t.co/jVnFrXfWj2 https://t.co/oZWY66mBzI",
+  "URL": "https://t.co/jVnFrXfWj2",
+  "MediaURL": "http://pbs.twimg.com/media/DJkd7ZFWsAAwYao.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907789709086162944"
+}
+{
+  "Data": {
+    "Id": 80,
+    "CreatedOn": "2017-09-12T19:25:03",
+    "City": "ERZİNCAN",
+    "County": null,
+    "TweetId": 907686512879390721,
+    "TweetScreenName": "cnnturk",
+    "Text": "Erzincan'da feci kaza: 4 ölü, 2 yaralı https://t.co/lQTpqN6VuT https://t.co/yv0vmjCDa7",
+    "URL": "https://t.co/lQTpqN6VuT",
+    "MediaURL": "http://pbs.twimg.com/media/DJjAElCUEAAY4OE.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907686512879390721",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T19:25:03",
+  "City": "ERZİNCAN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907686512879390721,
+  "Text": "Erzincan'da feci kaza: 4 ölü, 2 yaralı https://t.co/lQTpqN6VuT https://t.co/yv0vmjCDa7",
+  "URL": "https://t.co/lQTpqN6VuT",
+  "MediaURL": "http://pbs.twimg.com/media/DJjAElCUEAAY4OE.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907686512879390721"
+}
+{
+  "Data": {
+    "Id": 81,
+    "CreatedOn": "2017-09-12T15:15:15",
+    "City": "ELAZIĞ",
+    "County": "MADEN",
+    "TweetId": 907623651427614720,
+    "TweetScreenName": "cnnturk",
+    "Text": "Zonguldak'ta maden ocağında kaza https://t.co/MrxqO5PXq2 https://t.co/6Y7giTQYXz",
+    "URL": "https://t.co/MrxqO5PXq2",
+    "MediaURL": "http://pbs.twimg.com/media/DJiG5h8XUAAVQx0.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907623651427614720",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T15:15:15",
+  "City": "ELAZIĞ",
+  "County": "MADEN",
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907623651427614720,
+  "Text": "Zonguldak'ta maden ocağında kaza https://t.co/MrxqO5PXq2 https://t.co/6Y7giTQYXz",
+  "URL": "https://t.co/MrxqO5PXq2",
+  "MediaURL": "http://pbs.twimg.com/media/DJiG5h8XUAAVQx0.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907623651427614720"
+}
+{
+  "Data": {
+    "Id": 82,
+    "CreatedOn": "2017-09-12T04:01:23",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907431790822002689,
+    "TweetScreenName": "cnnturk",
+    "Text": "İstanbul'da trafik polislerinin servis denetiminde şok: Servis şoförü ehliyetsiz çıktı https://t.co/SvSwNaSTrT https://t.co/HT3LwFQWPD",
+    "URL": "https://t.co/SvSwNaSTrT",
+    "MediaURL": "http://pbs.twimg.com/media/DJfYZx6U8AACOxB.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907431790822002689",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T04:01:23",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907431790822002689,
+  "Text": "İstanbul'da trafik polislerinin servis denetiminde şok: Servis şoförü ehliyetsiz çıktı https://t.co/SvSwNaSTrT https://t.co/HT3LwFQWPD",
+  "URL": "https://t.co/SvSwNaSTrT",
+  "MediaURL": "http://pbs.twimg.com/media/DJfYZx6U8AACOxB.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907431790822002689"
+}
+{
+  "Data": {
+    "Id": 83,
+    "CreatedOn": "2017-09-11T21:45:01",
+    "City": "KARS",
+    "County": null,
+    "TweetId": 907359351052136448,
+    "TweetScreenName": "cnnturk",
+    "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/V33zKsXilU https://t.co/DLFBFY3Gr6",
+    "URL": "https://t.co/V33zKsXilU",
+    "MediaURL": "http://pbs.twimg.com/media/DJeWhQxWsAA_0QA.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907359351052136448",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T21:45:01",
+  "City": "KARS",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907359351052136448,
+  "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/V33zKsXilU https://t.co/DLFBFY3Gr6",
+  "URL": "https://t.co/V33zKsXilU",
+  "MediaURL": "http://pbs.twimg.com/media/DJeWhQxWsAA_0QA.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907359351052136448"
+}
+{
+  "Data": {
+    "Id": 84,
+    "CreatedOn": "2017-09-11T15:57:30",
+    "City": "KARS",
+    "County": null,
+    "TweetId": 907271895338319874,
+    "TweetScreenName": "cnnturk",
+    "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/gbqxngVqgK https://t.co/hOYEu8NS6K",
+    "URL": "https://t.co/gbqxngVqgK",
+    "MediaURL": "http://pbs.twimg.com/media/DJdG-qcUMAA-bi3.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907271895338319874",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T15:57:30",
+  "City": "KARS",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907271895338319874,
+  "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/gbqxngVqgK https://t.co/hOYEu8NS6K",
+  "URL": "https://t.co/gbqxngVqgK",
+  "MediaURL": "http://pbs.twimg.com/media/DJdG-qcUMAA-bi3.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907271895338319874"
+}
+{
+  "Data": {
+    "Id": 85,
+    "CreatedOn": "2017-09-11T13:05:23",
+    "City": "KARS",
+    "County": null,
+    "TweetId": 907228580916195329,
+    "TweetScreenName": "cnnturk",
+    "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/6G4eIKG0nd https://t.co/bknN8vYkrm",
+    "URL": "https://t.co/6G4eIKG0nd",
+    "MediaURL": "http://pbs.twimg.com/media/DJcflcgXcAAOSfy.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907228580916195329",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T13:05:23",
+  "City": "KARS",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907228580916195329,
+  "Text": "Kars'ta korkunç kaza: Araçtan fırlayan bebek can verdi https://t.co/6G4eIKG0nd https://t.co/bknN8vYkrm",
+  "URL": "https://t.co/6G4eIKG0nd",
+  "MediaURL": "http://pbs.twimg.com/media/DJcflcgXcAAOSfy.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907228580916195329"
+}
+{
+  "Data": {
+    "Id": 86,
+    "CreatedOn": "2017-09-11T09:15:03",
+    "City": "KARAMAN",
+    "County": null,
+    "TweetId": 907170612241747969,
+    "TweetScreenName": "cnnturk",
+    "Text": "Karaman'da korkunç kaza: Odun parçalarken parmakları koptu https://t.co/szH9L34IVj https://t.co/2kT9im1ogo",
+    "URL": "https://t.co/szH9L34IVj",
+    "MediaURL": "http://pbs.twimg.com/media/DJbq3QGXoAANL0D.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907170612241747969",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T09:15:03",
+  "City": "KARAMAN",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907170612241747969,
+  "Text": "Karaman'da korkunç kaza: Odun parçalarken parmakları koptu https://t.co/szH9L34IVj https://t.co/2kT9im1ogo",
+  "URL": "https://t.co/szH9L34IVj",
+  "MediaURL": "http://pbs.twimg.com/media/DJbq3QGXoAANL0D.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907170612241747969"
+}
+{
+  "Data": {
+    "Id": 87,
+    "CreatedOn": "2017-09-11T05:07:38",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907108349589716994,
+    "TweetScreenName": "cnnturk",
+    "Text": "Ankara'da trafik kazası: Ölü ve yaralılar var... https://t.co/PH0l7YLeSs https://t.co/mX9eyPzAj1",
+    "URL": "https://t.co/PH0l7YLeSs",
+    "MediaURL": "http://pbs.twimg.com/media/DJayPEXXcAAqQ0c.jpg",
+    "TweetURL": "http://twitter.com/cnnturk/status/907108349589716994",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T05:07:38",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "cnnturk",
+  "TweetId": 907108349589716994,
+  "Text": "Ankara'da trafik kazası: Ölü ve yaralılar var... https://t.co/PH0l7YLeSs https://t.co/mX9eyPzAj1",
+  "URL": "https://t.co/PH0l7YLeSs",
+  "MediaURL": "http://pbs.twimg.com/media/DJayPEXXcAAqQ0c.jpg",
+  "TweetURL": "http://twitter.com/cnnturk/status/907108349589716994"
+}
+{
+  "Data": {
+    "Id": 88,
+    "CreatedOn": "2017-09-12T10:21:14",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907549656007274497,
+    "TweetScreenName": "Hurriyet",
+    "Text": "İstanbul Edirnekapı’da yangın! Çok sayıda itfaiye ekibi sevk edildi https://t.co/W4DXxhBbuE https://t.co/9u203LOjAs",
+    "URL": "https://t.co/W4DXxhBbuE",
+    "MediaURL": "http://pbs.twimg.com/media/DJhDmVfXkAEpt7T.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907549656007274497",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T10:21:14",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907549656007274497,
+  "Text": "İstanbul Edirnekapı’da yangın! Çok sayıda itfaiye ekibi sevk edildi https://t.co/W4DXxhBbuE https://t.co/9u203LOjAs",
+  "URL": "https://t.co/W4DXxhBbuE",
+  "MediaURL": "http://pbs.twimg.com/media/DJhDmVfXkAEpt7T.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907549656007274497"
+}
+{
+  "Data": {
+    "Id": 89,
+    "CreatedOn": "2017-09-18T11:30:28",
+    "City": "İSTANBUL",
+    "County": "BAŞAKŞEHİR",
+    "TweetId": 909740041760645122,
+    "TweetScreenName": "hsporarena",
+    "Text": "Medipol Başakşehir'den o güvenlik görevlileri hakkında flaş karar https://t.co/IG1DW9NmNI https://t.co/oIDMSRNuAl",
+    "URL": "https://t.co/IG1DW9NmNI",
+    "MediaURL": "http://pbs.twimg.com/media/DKALvfRWAAAPlff.jpg",
+    "TweetURL": "http://twitter.com/hsporarena/status/909740041760645122",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T11:30:28",
+  "City": "İSTANBUL",
+  "County": "BAŞAKŞEHİR",
+  "TweetScreenName": "hsporarena",
+  "TweetId": 909740041760645122,
+  "Text": "Medipol Başakşehir'den o güvenlik görevlileri hakkında flaş karar https://t.co/IG1DW9NmNI https://t.co/oIDMSRNuAl",
+  "URL": "https://t.co/IG1DW9NmNI",
+  "MediaURL": "http://pbs.twimg.com/media/DKALvfRWAAAPlff.jpg",
+  "TweetURL": "http://twitter.com/hsporarena/status/909740041760645122"
+}
+{
+  "Data": {
+    "Id": 90,
+    "CreatedOn": "2017-09-17T14:11:35",
+    "City": "DİYARBAKIR",
+    "County": null,
+    "TweetId": 909419191794491392,
+    "TweetScreenName": "huryazarlar",
+    "Text": "HDP’nin Diyarbakır'daki mitinginde yoğun güvenlik önlemi https://t.co/Mpflz96X9n https://t.co/WvlBP27eis",
+    "URL": "https://t.co/Mpflz96X9n",
+    "MediaURL": "http://pbs.twimg.com/media/DJ7n7wWUQAAB3xS.jpg",
+    "TweetURL": "http://twitter.com/huryazarlar/status/909419191794491392",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T14:11:35",
+  "City": "DİYARBAKIR",
+  "County": null,
+  "TweetScreenName": "huryazarlar",
+  "TweetId": 909419191794491392,
+  "Text": "HDP’nin Diyarbakır'daki mitinginde yoğun güvenlik önlemi https://t.co/Mpflz96X9n https://t.co/WvlBP27eis",
+  "URL": "https://t.co/Mpflz96X9n",
+  "MediaURL": "http://pbs.twimg.com/media/DJ7n7wWUQAAB3xS.jpg",
+  "TweetURL": "http://twitter.com/huryazarlar/status/909419191794491392"
+}
+{
+  "Data": {
+    "Id": 91,
+    "CreatedOn": "2017-09-15T07:32:04",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 908594250589331456,
+    "TweetScreenName": "Hurriyet",
+    "Text": "İstanbul'da para taşıyan motosikletli kuryeye silahlı saldırı https://t.co/PM46Lix2QD https://t.co/ybbnKKEbvh",
+    "URL": "https://t.co/PM46Lix2QD",
+    "MediaURL": "http://pbs.twimg.com/media/DJv5pvVX0AAmE-3.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/908594250589331456",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T07:32:04",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 908594250589331456,
+  "Text": "İstanbul'da para taşıyan motosikletli kuryeye silahlı saldırı https://t.co/PM46Lix2QD https://t.co/ybbnKKEbvh",
+  "URL": "https://t.co/PM46Lix2QD",
+  "MediaURL": "http://pbs.twimg.com/media/DJv5pvVX0AAmE-3.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/908594250589331456"
+}
+{
+  "Data": {
+    "Id": 92,
+    "CreatedOn": "2017-09-13T20:04:46",
+    "City": "İSTANBUL",
+    "County": "MALTEPE",
+    "TweetId": 908058894823559174,
+    "TweetScreenName": "Hurriyet",
+    "Text": "SON DAKİKA | Maltepe'de kahvehaneye silahlı saldırı! 1 ölü ve 2 yaralı https://t.co/ViNorPD0DQ https://t.co/oTlf5hkP1g",
+    "URL": "https://t.co/ViNorPD0DQ",
+    "MediaURL": "http://pbs.twimg.com/media/DJoSvfeX0AELubk.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/908058894823559174",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T20:04:46",
+  "City": "İSTANBUL",
+  "County": "MALTEPE",
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 908058894823559174,
+  "Text": "SON DAKİKA | Maltepe'de kahvehaneye silahlı saldırı! 1 ölü ve 2 yaralı https://t.co/ViNorPD0DQ https://t.co/oTlf5hkP1g",
+  "URL": "https://t.co/ViNorPD0DQ",
+  "MediaURL": "http://pbs.twimg.com/media/DJoSvfeX0AELubk.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/908058894823559174"
+}
+{
+  "Data": {
+    "Id": 93,
+    "CreatedOn": "2017-09-13T06:08:44",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907848502608359426,
+    "TweetScreenName": "Hurriyet",
+    "Text": "Ankara'da cinayet! Katil zanlıları böyle yakalandı... https://t.co/PcI8YSDHZp https://t.co/Z55f3LXvLO",
+    "URL": "https://t.co/PcI8YSDHZp",
+    "MediaURL": "http://pbs.twimg.com/media/DJlTTSkX0AAVBup.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907848502608359426",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T06:08:44",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907848502608359426,
+  "Text": "Ankara'da cinayet! Katil zanlıları böyle yakalandı... https://t.co/PcI8YSDHZp https://t.co/Z55f3LXvLO",
+  "URL": "https://t.co/PcI8YSDHZp",
+  "MediaURL": "http://pbs.twimg.com/media/DJlTTSkX0AAVBup.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907848502608359426"
+}
+{
+  "Data": {
+    "Id": 94,
+    "CreatedOn": "2017-09-12T19:13:06",
+    "City": "HAKKARİ",
+    "County": "ŞEMDİNLİ",
+    "TweetId": 907683505785712640,
+    "TweetScreenName": "Hurriyet",
+    "Text": "SON DAKİKA | Şemdinli'de bombalı tuzak: 1 şehit 3 yaralı https://t.co/LoyF9Pkx2c https://t.co/M9pUCs4JtH",
+    "URL": "https://t.co/LoyF9Pkx2c",
+    "MediaURL": "http://pbs.twimg.com/media/DJi9VUZXkAECxur.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907683505785712640",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T19:13:06",
+  "City": "HAKKARİ",
+  "County": "ŞEMDİNLİ",
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907683505785712640,
+  "Text": "SON DAKİKA | Şemdinli'de bombalı tuzak: 1 şehit 3 yaralı https://t.co/LoyF9Pkx2c https://t.co/M9pUCs4JtH",
+  "URL": "https://t.co/LoyF9Pkx2c",
+  "MediaURL": "http://pbs.twimg.com/media/DJi9VUZXkAECxur.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907683505785712640"
+}
+{
+  "Data": {
+    "Id": 95,
+    "CreatedOn": "2017-09-12T18:51:04",
+    "City": "HAKKARİ",
+    "County": "ŞEMDİNLİ",
+    "TweetId": 907677962467790848,
+    "TweetScreenName": "Hurriyet",
+    "Text": "SON DAKİKA | Şemdinli'de patlama: 5 güvenlik korucusu yaralandı... https://t.co/V8hCDlcwJ2 https://t.co/YLXTKVDWxm",
+    "URL": "https://t.co/V8hCDlcwJ2",
+    "MediaURL": "http://pbs.twimg.com/media/DJi4SQgXUAwCpXK.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907677962467790848",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T18:51:04",
+  "City": "HAKKARİ",
+  "County": "ŞEMDİNLİ",
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907677962467790848,
+  "Text": "SON DAKİKA | Şemdinli'de patlama: 5 güvenlik korucusu yaralandı... https://t.co/V8hCDlcwJ2 https://t.co/YLXTKVDWxm",
+  "URL": "https://t.co/V8hCDlcwJ2",
+  "MediaURL": "http://pbs.twimg.com/media/DJi4SQgXUAwCpXK.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907677962467790848"
+}
+{
+  "Data": {
+    "Id": 96,
+    "CreatedOn": "2017-09-11T09:55:00",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907180668903231488,
+    "TweetScreenName": "Hurriyet",
+    "Text": "Bir İstanbul hikayesi: Kapkaç, kahramanlık, kahramana dayak, hırsızlık https://t.co/IXNhEBHRID https://t.co/LhECvIdbLu",
+    "URL": "https://t.co/IXNhEBHRID",
+    "MediaURL": "http://pbs.twimg.com/media/DJbjbkMWsAAKMEb.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907180668903231488",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T09:55:00",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907180668903231488,
+  "Text": "Bir İstanbul hikayesi: Kapkaç, kahramanlık, kahramana dayak, hırsızlık https://t.co/IXNhEBHRID https://t.co/LhECvIdbLu",
+  "URL": "https://t.co/IXNhEBHRID",
+  "MediaURL": "http://pbs.twimg.com/media/DJbjbkMWsAAKMEb.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907180668903231488"
+}
+{
+  "Data": {
+    "Id": 97,
+    "CreatedOn": "2017-09-11T08:01:13",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907152032234172416,
+    "TweetScreenName": "Hurriyet",
+    "Text": "Bir İstanbul hikayesi: Kapkaç, kahramanlık, kahramana dayak, hırsızlık https://t.co/IXNhEBZt7d https://t.co/S6IaUBYjT4",
+    "URL": "https://t.co/IXNhEBZt7d",
+    "MediaURL": "http://pbs.twimg.com/media/DJbZ7dfW4AAmS9J.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907152032234172416",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T08:01:13",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907152032234172416,
+  "Text": "Bir İstanbul hikayesi: Kapkaç, kahramanlık, kahramana dayak, hırsızlık https://t.co/IXNhEBZt7d https://t.co/S6IaUBYjT4",
+  "URL": "https://t.co/IXNhEBZt7d",
+  "MediaURL": "http://pbs.twimg.com/media/DJbZ7dfW4AAmS9J.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907152032234172416"
+}
+{
+  "Data": {
+    "Id": 98,
+    "CreatedOn": "2017-09-17T16:54:34",
+    "City": "İSTANBUL",
+    "County": "KADIKÖY",
+    "TweetId": 909460584076333056,
+    "TweetScreenName": "Hurriyet",
+    "Text": "#SONDAKİKA... Kadıköy'de feci kaza: Ölü ve yaralılar var \nhttps://t.co/75L8uHP26q https://t.co/yOoFaJPAb2",
+    "URL": "https://t.co/75L8uHP26q",
+    "MediaURL": "http://pbs.twimg.com/media/DJ8NkQWWsAEt8P-.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/909460584076333056",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T16:54:34",
+  "City": "İSTANBUL",
+  "County": "KADIKÖY",
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 909460584076333056,
+  "Text": "#SONDAKİKA... Kadıköy'de feci kaza: Ölü ve yaralılar var \nhttps://t.co/75L8uHP26q https://t.co/yOoFaJPAb2",
+  "URL": "https://t.co/75L8uHP26q",
+  "MediaURL": "http://pbs.twimg.com/media/DJ8NkQWWsAEt8P-.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/909460584076333056"
+}
+{
+  "Data": {
+    "Id": 99,
+    "CreatedOn": "2017-09-11T22:10:00",
+    "City": "ADANA",
+    "County": null,
+    "TweetId": 907365638636752902,
+    "TweetScreenName": "Hurriyet",
+    "Text": "Adana'da trafik polisi dehşet saçtı, akrabalarını vurdu https://t.co/ZVQd9Ef5Gt https://t.co/0IOeJySJOX",
+    "URL": "https://t.co/ZVQd9Ef5Gt",
+    "MediaURL": "http://pbs.twimg.com/media/DJeI7DtX0AAZi7j.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907365638636752902",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T22:10:00",
+  "City": "ADANA",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907365638636752902,
+  "Text": "Adana'da trafik polisi dehşet saçtı, akrabalarını vurdu https://t.co/ZVQd9Ef5Gt https://t.co/0IOeJySJOX",
+  "URL": "https://t.co/ZVQd9Ef5Gt",
+  "MediaURL": "http://pbs.twimg.com/media/DJeI7DtX0AAZi7j.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907365638636752902"
+}
+{
+  "Data": {
+    "Id": 100,
+    "CreatedOn": "2017-09-11T13:05:27",
+    "City": "ADANA",
+    "County": null,
+    "TweetId": 907228598330957824,
+    "TweetScreenName": "Hurriyet",
+    "Text": "Adana'da trafik polisi dehşet saçtı, akrabalarını vurdu https://t.co/ZVQd9Ef5Gt https://t.co/0ls7MCdGEe",
+    "URL": "https://t.co/ZVQd9Ef5Gt",
+    "MediaURL": "http://pbs.twimg.com/media/DJcflvjXgAEBWbo.jpg",
+    "TweetURL": "http://twitter.com/Hurriyet/status/907228598330957824",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T13:05:27",
+  "City": "ADANA",
+  "County": null,
+  "TweetScreenName": "Hurriyet",
+  "TweetId": 907228598330957824,
+  "Text": "Adana'da trafik polisi dehşet saçtı, akrabalarını vurdu https://t.co/ZVQd9Ef5Gt https://t.co/0ls7MCdGEe",
+  "URL": "https://t.co/ZVQd9Ef5Gt",
+  "MediaURL": "http://pbs.twimg.com/media/DJcflvjXgAEBWbo.jpg",
+  "TweetURL": "http://twitter.com/Hurriyet/status/907228598330957824"
+}
+{
+  "Data": {
+    "Id": 101,
+    "CreatedOn": "2017-09-15T12:33:35",
+    "City": "BOLU",
+    "County": null,
+    "TweetId": 908670129831120896,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "Gelibolu Şehitliği’nde yangın\nhttps://t.co/HrnBa1f0wG",
+    "URL": "https://t.co/HrnBa1f0wG",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/908670129831120896",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T12:33:35",
+  "City": "BOLU",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 908670129831120896,
+  "Text": "Gelibolu Şehitliği’nde yangın\nhttps://t.co/HrnBa1f0wG",
+  "URL": "https://t.co/HrnBa1f0wG",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/908670129831120896"
+}
+{
+  "Data": {
+    "Id": 102,
+    "CreatedOn": "2017-09-12T16:08:09",
+    "City": "ANKARA",
+    "County": null,
+    "TweetId": 907636960226922496,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "Eskişehir-Ankara karayolunda yol kenarında yakılan anız zincirleme kazaya neden oldu: 34 yaralı https://t.co/BYGX5MSCIs",
+    "URL": "https://t.co/BYGX5MSCIs",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/907636960226922496",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-12T16:08:09",
+  "City": "ANKARA",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 907636960226922496,
+  "Text": "Eskişehir-Ankara karayolunda yol kenarında yakılan anız zincirleme kazaya neden oldu: 34 yaralı https://t.co/BYGX5MSCIs",
+  "URL": "https://t.co/BYGX5MSCIs",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/907636960226922496"
+}
+{
+  "Data": {
+    "Id": 103,
+    "CreatedOn": "2017-09-18T20:12:26",
+    "City": "TEKİRDAĞ",
+    "County": "SARAY",
+    "TweetId": 815859583252123648,
+    "TweetScreenName": "SozcuArsiv",
+    "Text": "\"Büyük ikramiyeyle Ak Saray'ın elektrik-doğalgaz faturasını anca iki ay ödeyebilirsiniz. \" Özdil hatırlatıyor https://t.co/r31fWmV2eP",
+    "URL": "https://t.co/r31fWmV2eP",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/SozcuArsiv/status/815859583252123648",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T20:12:26",
+  "City": "TEKİRDAĞ",
+  "County": "SARAY",
+  "TweetScreenName": "SozcuArsiv",
+  "TweetId": 815859583252123648,
+  "Text": "\"Büyük ikramiyeyle Ak Saray'ın elektrik-doğalgaz faturasını anca iki ay ödeyebilirsiniz. \" Özdil hatırlatıyor https://t.co/r31fWmV2eP",
+  "URL": "https://t.co/r31fWmV2eP",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/SozcuArsiv/status/815859583252123648"
+}
+{
+  "Data": {
+    "Id": 104,
+    "CreatedOn": "2017-09-17T09:52:12",
+    "City": "TEKİRDAĞ",
+    "County": "SARAY",
+    "TweetId": 818361888786513920,
+    "TweetScreenName": "SozcuArsiv",
+    "Text": "17.02.15\n2017'de halk, esnaf, sanayici elektrik bulamazken; \n1150 odalı Ak-Saray'ın yuttuğu elektrik parası:\nAylık… https://t.co/8Nn1Jt9I4E",
+    "URL": "https://t.co/8Nn1Jt9I4E",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/SozcuArsiv/status/818361888786513920",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T09:52:12",
+  "City": "TEKİRDAĞ",
+  "County": "SARAY",
+  "TweetScreenName": "SozcuArsiv",
+  "TweetId": 818361888786513920,
+  "Text": "17.02.15\n2017'de halk, esnaf, sanayici elektrik bulamazken; \n1150 odalı Ak-Saray'ın yuttuğu elektrik parası:\nAylık… https://t.co/8Nn1Jt9I4E",
+  "URL": "https://t.co/8Nn1Jt9I4E",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/SozcuArsiv/status/818361888786513920"
+}
+{
+  "Data": {
+    "Id": 105,
+    "CreatedOn": "2017-09-18T10:01:20",
+    "City": "VAN",
+    "County": null,
+    "TweetId": 909718977248555009,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "SON DAKİKA: Van'da korkutan deprem! \nhttps://t.co/XSFaS1i7Ua https://t.co/xL0tsn4pOD",
+    "URL": "https://t.co/XSFaS1i7Ua",
+    "MediaURL": "http://pbs.twimg.com/media/DJ_4lb5WsAAKmRk.jpg",
+    "TweetURL": "http://twitter.com/gazetesozcu/status/909718977248555009",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T10:01:20",
+  "City": "VAN",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 909718977248555009,
+  "Text": "SON DAKİKA: Van'da korkutan deprem! \nhttps://t.co/XSFaS1i7Ua https://t.co/xL0tsn4pOD",
+  "URL": "https://t.co/XSFaS1i7Ua",
+  "MediaURL": "http://pbs.twimg.com/media/DJ_4lb5WsAAKmRk.jpg",
+  "TweetURL": "http://twitter.com/gazetesozcu/status/909718977248555009"
+}
+{
+  "Data": {
+    "Id": 106,
+    "CreatedOn": "2017-09-14T14:51:05",
+    "City": "AĞRI",
+    "County": null,
+    "TweetId": 908342345246167041,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "TSK’dan flaş açıklama:  Ağrı'da üs bölgesine saldırı hazırlığında olan teröristler öldürüldü! \nhttps://t.co/fgG9Wm3rsR",
+    "URL": "https://t.co/fgG9Wm3rsR",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/908342345246167041",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-14T14:51:05",
+  "City": "AĞRI",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 908342345246167041,
+  "Text": "TSK’dan flaş açıklama:  Ağrı'da üs bölgesine saldırı hazırlığında olan teröristler öldürüldü! \nhttps://t.co/fgG9Wm3rsR",
+  "URL": "https://t.co/fgG9Wm3rsR",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/908342345246167041"
+}
+{
+  "Data": {
+    "Id": 107,
+    "CreatedOn": "2017-09-13T19:04:21",
+    "City": "KOCAELİ",
+    "County": null,
+    "TweetId": 908043692283396097,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "SON DAKİKA! Kocaeli'de kahvehane ile minibüse silahlı saldırı! https://t.co/06nPm2PSle",
+    "URL": "https://t.co/06nPm2PSle",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/908043692283396097",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T19:04:21",
+  "City": "KOCAELİ",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 908043692283396097,
+  "Text": "SON DAKİKA! Kocaeli'de kahvehane ile minibüse silahlı saldırı! https://t.co/06nPm2PSle",
+  "URL": "https://t.co/06nPm2PSle",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/908043692283396097"
+}
+{
+  "Data": {
+    "Id": 108,
+    "CreatedOn": "2017-09-18T20:00:46",
+    "City": "EDİRNE",
+    "County": null,
+    "TweetId": 909869827912818689,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "İstanbul TEM’de zincirleme kaza! Edirne yönü kapandı\nhttps://t.co/YP1596V926",
+    "URL": "https://t.co/YP1596V926",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/909869827912818689",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T20:00:46",
+  "City": "EDİRNE",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 909869827912818689,
+  "Text": "İstanbul TEM’de zincirleme kaza! Edirne yönü kapandı\nhttps://t.co/YP1596V926",
+  "URL": "https://t.co/YP1596V926",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/909869827912818689"
+}
+{
+  "Data": {
+    "Id": 109,
+    "CreatedOn": "2017-09-18T06:34:03",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 785412157987024896,
+    "TweetScreenName": "SozcuArsiv",
+    "Text": "\"Boğaz'a üç köprü yapıldı.İstanbul yine korkunç bir trafik cinayetinin pençesinde inliyor.Hesap lütfen!\"… https://t.co/CWWGGPrP10",
+    "URL": "https://t.co/CWWGGPrP10",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/SozcuArsiv/status/785412157987024896",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T06:34:03",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "SozcuArsiv",
+  "TweetId": 785412157987024896,
+  "Text": "\"Boğaz'a üç köprü yapıldı.İstanbul yine korkunç bir trafik cinayetinin pençesinde inliyor.Hesap lütfen!\"… https://t.co/CWWGGPrP10",
+  "URL": "https://t.co/CWWGGPrP10",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/SozcuArsiv/status/785412157987024896"
+}
+{
+  "Data": {
+    "Id": 110,
+    "CreatedOn": "2017-09-18T04:35:11",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 737227131911045120,
+    "TweetScreenName": "SozcuArsiv",
+    "Text": "20 yılı aşkın İstanbul'u yönetip, trafik sıkışıklığında 194 ülke ve binlerce şehir arasında ilk sırayı fethettiler! https://t.co/9qCfxBHOVX",
+    "URL": "https://t.co/9qCfxBHOVX",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/SozcuArsiv/status/737227131911045120",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T04:35:11",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "SozcuArsiv",
+  "TweetId": 737227131911045120,
+  "Text": "20 yılı aşkın İstanbul'u yönetip, trafik sıkışıklığında 194 ülke ve binlerce şehir arasında ilk sırayı fethettiler! https://t.co/9qCfxBHOVX",
+  "URL": "https://t.co/9qCfxBHOVX",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/SozcuArsiv/status/737227131911045120"
+}
+{
+  "Data": {
+    "Id": 111,
+    "CreatedOn": "2017-09-13T09:44:08",
+    "City": "İSTANBUL",
+    "County": null,
+    "TweetId": 907902710850244608,
+    "TweetScreenName": "gazetesozcu",
+    "Text": "Ankara-İstanbul karayolunda meydana gelen trafik kazasında ilk belirlemelere göre 5 kişi hayatını kaybetti.\nhttps://t.co/KviMqNKGu5",
+    "URL": "https://t.co/KviMqNKGu5",
+    "MediaURL": null,
+    "TweetURL": "http://twitter.com/gazetesozcu/status/907902710850244608",
+    "Location": null
+  },
+  "Status": 1,
+  "Message": null
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T09:44:08",
+  "City": "İSTANBUL",
+  "County": null,
+  "TweetScreenName": "gazetesozcu",
+  "TweetId": 907902710850244608,
+  "Text": "Ankara-İstanbul karayolunda meydana gelen trafik kazasında ilk belirlemelere göre 5 kişi hayatını kaybetti.\nhttps://t.co/KviMqNKGu5",
+  "URL": "https://t.co/KviMqNKGu5",
+  "MediaURL": null,
+  "TweetURL": "http://twitter.com/gazetesozcu/status/907902710850244608"
+}

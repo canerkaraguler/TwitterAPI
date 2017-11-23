@@ -1,0 +1,108 @@
+﻿{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-15T13:37:16",
+  "City": "BOLU",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 908686154161061888,
+  "Text": "Gelibolu Yarımadası'ndaki yangın kontrol altına alındı https://t.co/OPbAo46nHH https://t.co/DcazasjrYC",
+  "URL": "https://t.co/OPbAo46nHH",
+  "MediaURL": "http://pbs.twimg.com/media/DJxNOClWkAASyTk.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/908686154161061888"
+}
+{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-11T04:48:36",
+  "City": "KÜTAHYA",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 907103558281154560,
+  "Text": "Kütahya'daki orman yangını kontrol altında https://t.co/Eb8NBCsnOi https://t.co/AhdjNwXW4d",
+  "URL": "https://t.co/Eb8NBCsnOi",
+  "MediaURL": "http://pbs.twimg.com/media/DJat28mXoAA-7Es.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/907103558281154560"
+}
+{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-18T10:01:04",
+  "City": "VAN",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 909718911511298048,
+  "Text": "Van Erçiş'te 4.1 büyüklüğünde deprem https://t.co/WBCzhCiHpG https://t.co/oeskYcIvGH",
+  "URL": "https://t.co/WBCzhCiHpG",
+  "MediaURL": "http://pbs.twimg.com/media/DJ_4ZwzXkAEojCY.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/909718911511298048"
+}
+{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-16T08:23:15",
+  "City": "BALIKESİR",
+  "County": "EDREMİT",
+  "TweetScreenName": "ntv",
+  "TweetId": 908969518390743040,
+  "Text": "Edremit Körfezi'nde 4.2 büyüklüğünde #deprem https://t.co/XWlvjOFDcS https://t.co/iVFzUcsJhK",
+  "URL": "https://t.co/XWlvjOFDcS",
+  "MediaURL": "http://pbs.twimg.com/media/DJ1O4G0X0AAq3Ax.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/908969518390743040"
+}
+{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-13T20:08:45",
+  "City": "İSTANBUL",
+  "County": "MALTEPE",
+  "TweetScreenName": "ntv",
+  "TweetId": 908059897471922177,
+  "Text": "#Sondakika Maltepe'de kahvehaneye silahlı saldırı: 1 ölü 2 yaralı https://t.co/JYRE9u0Ctu https://t.co/ORYqCE0Fmi",
+  "URL": "https://t.co/JYRE9u0Ctu",
+  "MediaURL": "http://pbs.twimg.com/media/DJoTp1KXkAAX8Ra.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/908059897471922177"
+}
+{
+  "Data": null,
+  "Status": 3,
+  "Message": "Verilen tweet sistemde zaten bulunmaktadır."
+}
+{
+  "Location": null,
+  "Id": null,
+  "CreatedOn": "2017-09-17T05:43:47",
+  "City": "AFYONKARAHİSAR",
+  "County": null,
+  "TweetScreenName": "ntv",
+  "TweetId": 909291773494784000,
+  "Text": "Afyonkarahisar'da kaza: 11 yaralı https://t.co/uYUpFjm1ET https://t.co/x0WqiAXtlR",
+  "URL": "https://t.co/uYUpFjm1ET",
+  "MediaURL": "http://pbs.twimg.com/media/DJ50CyzXoAEDcIw.jpg",
+  "TweetURL": "http://twitter.com/ntv/status/909291773494784000"
+}

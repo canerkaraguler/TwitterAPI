@@ -1,0 +1,6423 @@
+
+[
+  {
+    "bolge": "AKDEN›Z",
+    "id": 1,
+    "il": "ADANA",
+    "ilce": "ALADA–",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 2,
+    "il": "ADANA",
+    "ilce": "CEYHAN",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 3,
+    "il": "ADANA",
+    "ilce": "«UKUROVA",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 4,
+    "il": "ADANA",
+    "ilce": "FEKE",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 5,
+    "il": "ADANA",
+    "ilce": "›MAMO–LU",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 6,
+    "il": "ADANA",
+    "ilce": "KARA›SALI",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 7,
+    "il": "ADANA",
+    "ilce": "KARATAﬁ",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 8,
+    "il": "ADANA",
+    "ilce": "KOZAN",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 9,
+    "il": "ADANA",
+    "ilce": "POZANTI",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 10,
+    "il": "ADANA",
+    "ilce": "SA›MBEYL›",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 11,
+    "il": "ADANA",
+    "ilce": "SARI«AM",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 12,
+    "il": "ADANA",
+    "ilce": "SEYHAN",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 13,
+    "il": "ADANA",
+    "ilce": "TUFANBEYL›",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 14,
+    "il": "ADANA",
+    "ilce": "YUMURTALIK",
+    "plaka": 1
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 15,
+    "il": "ADANA",
+    "ilce": "Y‹RE–›R",
+    "plaka": 1
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 16,
+    "il": "ADIYAMAN",
+    "ilce": "BESN›",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 17,
+    "il": "ADIYAMAN",
+    "ilce": "«EL›KHAN",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 18,
+    "il": "ADIYAMAN",
+    "ilce": "GERGER",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 19,
+    "il": "ADIYAMAN",
+    "ilce": "G÷LBAﬁI",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 20,
+    "il": "ADIYAMAN",
+    "ilce": "KAHTA",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 21,
+    "il": "ADIYAMAN",
+    "ilce": "SAMSAT",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 22,
+    "il": "ADIYAMAN",
+    "ilce": "S›NC›K",
+    "plaka": 2
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 23,
+    "il": "ADIYAMAN",
+    "ilce": "TUT",
+    "plaka": 2
+  },
+  {
+    "bolge": "EGE",
+    "id": 24,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "BAﬁMAK«I",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 25,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "BAYAT",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 26,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "BOLVAD›N",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 27,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "«AY",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 28,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "«OBANLAR",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 29,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "DAZKIRI",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 30,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "D›NAR",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 31,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "EM›RDA–",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 32,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "EVC›LER",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 33,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "HOCALAR",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 34,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "›HSAN›YE",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 35,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "›SCEH›SAR",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 36,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "KIZIL÷REN",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 37,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "SANDIKLI",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 38,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "S›NANPAﬁA",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 39,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "SULTANDA–I",
+    "plaka": 3
+  },
+  {
+    "bolge": "EGE",
+    "id": 40,
+    "il": "AFYONKARAH›SAR",
+    "ilce": "ﬁUHUT",
+    "plaka": 3
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 41,
+    "il": "A–RI",
+    "ilce": "D›YAD›N",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 42,
+    "il": "A–RI",
+    "ilce": "DO–UBAYAZIT",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 43,
+    "il": "A–RI",
+    "ilce": "ELEﬁK›RT",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 44,
+    "il": "A–RI",
+    "ilce": "HAMUR",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 45,
+    "il": "A–RI",
+    "ilce": "PATNOS",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 46,
+    "il": "A–RI",
+    "ilce": "TAﬁLI«AY",
+    "plaka": 4
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 47,
+    "il": "A–RI",
+    "ilce": "TUTA",
+    "plaka": 4
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 48,
+    "il": "AMASYA",
+    "ilce": "G÷YN‹CEK",
+    "plaka": 5
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 49,
+    "il": "AMASYA",
+    "ilce": "G‹M‹ﬁHACIK÷Y",
+    "plaka": 5
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 50,
+    "il": "AMASYA",
+    "ilce": "HAMAM÷Z‹",
+    "plaka": 5
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 51,
+    "il": "AMASYA",
+    "ilce": "MERZ›FON",
+    "plaka": 5
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 52,
+    "il": "AMASYA",
+    "ilce": "SULUOVA",
+    "plaka": 5
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 53,
+    "il": "AMASYA",
+    "ilce": "TAﬁOVA",
+    "plaka": 5
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 54,
+    "il": "ANKARA",
+    "ilce": "AKYURT",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 55,
+    "il": "ANKARA",
+    "ilce": "ALTINDA–",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 56,
+    "il": "ANKARA",
+    "ilce": "AYAﬁ",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 57,
+    "il": "ANKARA",
+    "ilce": "BALA",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 58,
+    "il": "ANKARA",
+    "ilce": "BEYPAZARI",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 59,
+    "il": "ANKARA",
+    "ilce": "«AMLIDERE",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 60,
+    "il": "ANKARA",
+    "ilce": "«ANKAYA",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 61,
+    "il": "ANKARA",
+    "ilce": "«UBUK",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 62,
+    "il": "ANKARA",
+    "ilce": "ELMADA–",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 63,
+    "il": "ANKARA",
+    "ilce": "ET›MESGUT",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 64,
+    "il": "ANKARA",
+    "ilce": "EVREN",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 65,
+    "il": "ANKARA",
+    "ilce": "G÷LBAﬁI",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 66,
+    "il": "ANKARA",
+    "ilce": "G‹D‹L",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 67,
+    "il": "ANKARA",
+    "ilce": "HAYMANA",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 68,
+    "il": "ANKARA",
+    "ilce": "KALEC›K",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 69,
+    "il": "ANKARA",
+    "ilce": "KAZAN",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 70,
+    "il": "ANKARA",
+    "ilce": "KE«›÷REN",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 71,
+    "il": "ANKARA",
+    "ilce": "KIZILCAHAMAM",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 72,
+    "il": "ANKARA",
+    "ilce": "MAMAK",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 73,
+    "il": "ANKARA",
+    "ilce": "NALLIHAN",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 74,
+    "il": "ANKARA",
+    "ilce": "POLATLI",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 75,
+    "il": "ANKARA",
+    "ilce": "PURSAKLAR",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 76,
+    "il": "ANKARA",
+    "ilce": "S›NCAN",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 77,
+    "il": "ANKARA",
+    "ilce": "ﬁEREFL›KO«H›SAR",
+    "plaka": 6
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 78,
+    "il": "ANKARA",
+    "ilce": "YEN›MAHALLE",
+    "plaka": 6
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 79,
+    "il": "ANTALYA",
+    "ilce": "AKSEK›",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 80,
+    "il": "ANTALYA",
+    "ilce": "AKSU",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 81,
+    "il": "ANTALYA",
+    "ilce": "ALANYA",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 82,
+    "il": "ANTALYA",
+    "ilce": "DEMRE",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 83,
+    "il": "ANTALYA",
+    "ilce": "D÷ﬁEMEALTI",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 84,
+    "il": "ANTALYA",
+    "ilce": "ELMALI",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 85,
+    "il": "ANTALYA",
+    "ilce": "F›N›KE",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 86,
+    "il": "ANTALYA",
+    "ilce": "GAZ›PAﬁA",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 87,
+    "il": "ANTALYA",
+    "ilce": "G‹NDO–MUﬁ",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 88,
+    "il": "ANTALYA",
+    "ilce": "›BRADI",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 89,
+    "il": "ANTALYA",
+    "ilce": "KAﬁ",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 90,
+    "il": "ANTALYA",
+    "ilce": "KEMER",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 91,
+    "il": "ANTALYA",
+    "ilce": "KEPEZ",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 92,
+    "il": "ANTALYA",
+    "ilce": "KONYAALTI",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 93,
+    "il": "ANTALYA",
+    "ilce": "KORKUTEL›",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 94,
+    "il": "ANTALYA",
+    "ilce": "KUMLUCA",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 95,
+    "il": "ANTALYA",
+    "ilce": "MANAVGAT",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 96,
+    "il": "ANTALYA",
+    "ilce": "MURATPAﬁA",
+    "plaka": 7
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 97,
+    "il": "ANTALYA",
+    "ilce": "SER›K",
+    "plaka": 7
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 98,
+    "il": "ARTV›N",
+    "ilce": "ARDANU«",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 99,
+    "il": "ARTV›N",
+    "ilce": "ARHAV›",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 100,
+    "il": "ARTV›N",
+    "ilce": "BOR«KA",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 101,
+    "il": "ARTV›N",
+    "ilce": "HOPA",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 102,
+    "il": "ARTV›N",
+    "ilce": "MURGUL",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 103,
+    "il": "ARTV›N",
+    "ilce": "ﬁAVﬁAT",
+    "plaka": 8
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 104,
+    "il": "ARTV›N",
+    "ilce": "YUSUFEL›",
+    "plaka": 8
+  },
+  {
+    "bolge": "EGE",
+    "id": 105,
+    "il": "AYDIN",
+    "ilce": "BOZDOGAN",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 106,
+    "il": "AYDIN",
+    "ilce": "BUHARKENT",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 107,
+    "il": "AYDIN",
+    "ilce": "«›NE",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 108,
+    "il": "AYDIN",
+    "ilce": "D›D›M",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 109,
+    "il": "AYDIN",
+    "ilce": "GERMENC›K",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 110,
+    "il": "AYDIN",
+    "ilce": "›NC›RL›OVA",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 111,
+    "il": "AYDIN",
+    "ilce": "KARACASU",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 112,
+    "il": "AYDIN",
+    "ilce": "KARPUZLU",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 113,
+    "il": "AYDIN",
+    "ilce": "KO«ARLI",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 114,
+    "il": "AYDIN",
+    "ilce": "K÷ﬁK",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 115,
+    "il": "AYDIN",
+    "ilce": "KUﬁADASI",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 116,
+    "il": "AYDIN",
+    "ilce": "KUYUCAK",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 117,
+    "il": "AYDIN",
+    "ilce": "NAZ›LL›",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 118,
+    "il": "AYDIN",
+    "ilce": "S÷KE",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 119,
+    "il": "AYDIN",
+    "ilce": "SULTANH›SAR",
+    "plaka": 9
+  },
+  {
+    "bolge": "EGE",
+    "id": 120,
+    "il": "AYDIN",
+    "ilce": "YEN›PAZAR",
+    "plaka": 9
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 121,
+    "il": "BALIKES›R",
+    "ilce": "AYVALIK",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 122,
+    "il": "BALIKES›R",
+    "ilce": "BALYA",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 123,
+    "il": "BALIKES›R",
+    "ilce": "BANDIRMA",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 124,
+    "il": "BALIKES›R",
+    "ilce": "B›GAD›«",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 125,
+    "il": "BALIKES›R",
+    "ilce": "BURHAN›YE",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 126,
+    "il": "BALIKES›R",
+    "ilce": "DURSUNBEY",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 127,
+    "il": "BALIKES›R",
+    "ilce": "EDREM›T",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 128,
+    "il": "BALIKES›R",
+    "ilce": "ERDEK",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 129,
+    "il": "BALIKES›R",
+    "ilce": "G÷ME«",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 130,
+    "il": "BALIKES›R",
+    "ilce": "G÷NEN",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 131,
+    "il": "BALIKES›R",
+    "ilce": "HAVRAN",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 132,
+    "il": "BALIKES›R",
+    "ilce": "›VR›ND›",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 133,
+    "il": "BALIKES›R",
+    "ilce": "KEPSUT",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 134,
+    "il": "BALIKES›R",
+    "ilce": "MANYAS",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 135,
+    "il": "BALIKES›R",
+    "ilce": "MARMARA",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 136,
+    "il": "BALIKES›R",
+    "ilce": "SAVAﬁTEPE",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 137,
+    "il": "BALIKES›R",
+    "ilce": "SINDIRGI",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 138,
+    "il": "BALIKES›R",
+    "ilce": "SUSURLUK",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 139,
+    "il": "B›LEC›K",
+    "ilce": "BOZ‹Y‹K",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 140,
+    "il": "B›LEC›K",
+    "ilce": "G÷LPAZARI",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 141,
+    "il": "B›LEC›K",
+    "ilce": "›NH›SAR",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 142,
+    "il": "B›LEC›K",
+    "ilce": "OSMANEL›",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 143,
+    "il": "B›LEC›K",
+    "ilce": "PAZARYER›",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 144,
+    "il": "B›LEC›K",
+    "ilce": "S÷–‹T",
+    "plaka": 11
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 145,
+    "il": "B›LEC›K",
+    "ilce": "YEN›PAZAR",
+    "plaka": 11
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 146,
+    "il": "B›NG÷L",
+    "ilce": "ADAKLI",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 147,
+    "il": "B›NG÷L",
+    "ilce": "GEN«",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 148,
+    "il": "B›NG÷L",
+    "ilce": "KARLIOVA",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 149,
+    "il": "B›NG÷L",
+    "ilce": "K›–I",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 150,
+    "il": "B›NG÷L",
+    "ilce": "SOLHAN",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 151,
+    "il": "B›NG÷L",
+    "ilce": "YAYLADERE",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 152,
+    "il": "B›NG÷L",
+    "ilce": "YED›SU",
+    "plaka": 12
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 153,
+    "il": "B›TL›S",
+    "ilce": "AD›LCEVAZ",
+    "plaka": 13
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 154,
+    "il": "B›TL›S",
+    "ilce": "AHLAT",
+    "plaka": 13
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 155,
+    "il": "B›TL›S",
+    "ilce": "G‹ROYMAK",
+    "plaka": 13
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 156,
+    "il": "B›TL›S",
+    "ilce": "H›ZAN",
+    "plaka": 13
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 157,
+    "il": "B›TL›S",
+    "ilce": "MUTK›",
+    "plaka": 13
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 158,
+    "il": "B›TL›S",
+    "ilce": "TATVAN",
+    "plaka": 13
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 159,
+    "il": "BOLU",
+    "ilce": "D÷RTD›VAN",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 160,
+    "il": "BOLU",
+    "ilce": "GEREDE",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 161,
+    "il": "BOLU",
+    "ilce": "G÷YN‹K",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 162,
+    "il": "BOLU",
+    "ilce": "KIBRISCIK",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 163,
+    "il": "BOLU",
+    "ilce": "MENGEN",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 164,
+    "il": "BOLU",
+    "ilce": "MUDURNU",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 165,
+    "il": "BOLU",
+    "ilce": "SEBEN",
+    "plaka": 14
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 166,
+    "il": "BOLU",
+    "ilce": "YEN›«A–A",
+    "plaka": 14
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 167,
+    "il": "BURDUR",
+    "ilce": "A–LASUN",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 168,
+    "il": "BURDUR",
+    "ilce": "ALTINYAYLA",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 169,
+    "il": "BURDUR",
+    "ilce": "BUCAK",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 170,
+    "il": "BURDUR",
+    "ilce": "«AVDIR",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 171,
+    "il": "BURDUR",
+    "ilce": "«ELT›K«›",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 172,
+    "il": "BURDUR",
+    "ilce": "G÷LH›SAR",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 173,
+    "il": "BURDUR",
+    "ilce": "KARAMANLI",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 174,
+    "il": "BURDUR",
+    "ilce": "KEMER",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 175,
+    "il": "BURDUR",
+    "ilce": "TEFENN›",
+    "plaka": 15
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 176,
+    "il": "BURDUR",
+    "ilce": "YEﬁ›LOVA",
+    "plaka": 15
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 177,
+    "il": "BURSA",
+    "ilce": "B‹Y‹KORHAN",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 178,
+    "il": "BURSA",
+    "ilce": "GEML›K",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 179,
+    "il": "BURSA",
+    "ilce": "G‹RSU",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 180,
+    "il": "BURSA",
+    "ilce": "HARMANCIK",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 181,
+    "il": "BURSA",
+    "ilce": "›NEG÷L",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 182,
+    "il": "BURSA",
+    "ilce": "›ZN›K",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 183,
+    "il": "BURSA",
+    "ilce": "KARACABEY",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 184,
+    "il": "BURSA",
+    "ilce": "KELES",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 185,
+    "il": "BURSA",
+    "ilce": "KESTEL",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 186,
+    "il": "BURSA",
+    "ilce": "MUDANYA",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 187,
+    "il": "BURSA",
+    "ilce": "MUSTAFAKEMALPAﬁA",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 188,
+    "il": "BURSA",
+    "ilce": "N›L‹FER",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 189,
+    "il": "BURSA",
+    "ilce": "ORHANEL›",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 190,
+    "il": "BURSA",
+    "ilce": "ORHANGAZ›",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 191,
+    "il": "BURSA",
+    "ilce": "OSMANGAZ›",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 192,
+    "il": "BURSA",
+    "ilce": "YEN›ﬁEH›R",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 193,
+    "il": "BURSA",
+    "ilce": "YILDIRIM",
+    "plaka": 16
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 194,
+    "il": "«ANAKKALE",
+    "ilce": "AYVACIK",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 195,
+    "il": "«ANAKKALE",
+    "ilce": "BAYRAM›«",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 196,
+    "il": "«ANAKKALE",
+    "ilce": "B›GA",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 197,
+    "il": "«ANAKKALE",
+    "ilce": "BOZCAADA",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 198,
+    "il": "«ANAKKALE",
+    "ilce": "«AN",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 199,
+    "il": "«ANAKKALE",
+    "ilce": "ECEABAT",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 200,
+    "il": "«ANAKKALE",
+    "ilce": "EZ›NE",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 201,
+    "il": "«ANAKKALE",
+    "ilce": "GEL›BOLU",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 202,
+    "il": "«ANAKKALE",
+    "ilce": "›MROZ",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 203,
+    "il": "«ANAKKALE",
+    "ilce": "LAPSEK›",
+    "plaka": 17
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 204,
+    "il": "«ANAKKALE",
+    "ilce": "YEN›CE",
+    "plaka": 17
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 205,
+    "il": "«ANKIRI",
+    "ilce": "ATKARACALAR",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 206,
+    "il": "«ANKIRI",
+    "ilce": "BAYRAM÷REN",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 207,
+    "il": "«ANKIRI",
+    "ilce": "«ERKEﬁ",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 208,
+    "il": "«ANKIRI",
+    "ilce": "ELD›VAN",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 209,
+    "il": "«ANKIRI",
+    "ilce": "ILGAZ",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 210,
+    "il": "«ANKIRI",
+    "ilce": "KIZILIRMAK",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 211,
+    "il": "«ANKIRI",
+    "ilce": "KORGUN",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 212,
+    "il": "«ANKIRI",
+    "ilce": "KURﬁUNLU",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 213,
+    "il": "«ANKIRI",
+    "ilce": "ORTA",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 214,
+    "il": "«ANKIRI",
+    "ilce": "ﬁABAN÷Z‹",
+    "plaka": 18
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 215,
+    "il": "«ANKIRI",
+    "ilce": "YAPRAKLI",
+    "plaka": 18
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 216,
+    "il": "«ORUM",
+    "ilce": "ALACA",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 217,
+    "il": "«ORUM",
+    "ilce": "BAYAT",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 218,
+    "il": "«ORUM",
+    "ilce": "BO–AZKALE",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 219,
+    "il": "«ORUM",
+    "ilce": "DODURGA",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 220,
+    "il": "«ORUM",
+    "ilce": "›SK›L›P",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 221,
+    "il": "«ORUM",
+    "ilce": "KARGI",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 222,
+    "il": "«ORUM",
+    "ilce": "LA«›N",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 223,
+    "il": "«ORUM",
+    "ilce": "MEC›T÷Z‹",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 224,
+    "il": "«ORUM",
+    "ilce": "O–UZLAR",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 225,
+    "il": "«ORUM",
+    "ilce": "ORTAK÷Y",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 226,
+    "il": "«ORUM",
+    "ilce": "OSMANCIK",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 227,
+    "il": "«ORUM",
+    "ilce": "SUNGURLU",
+    "plaka": 19
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 228,
+    "il": "«ORUM",
+    "ilce": "U–URLUDA–",
+    "plaka": 19
+  },
+  {
+    "bolge": "EGE",
+    "id": 229,
+    "il": "DEN›ZL›",
+    "ilce": "ACIPAYAM",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 230,
+    "il": "DEN›ZL›",
+    "ilce": "PAMUKKALE",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 231,
+    "il": "DEN›ZL›",
+    "ilce": "BABADA–",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 232,
+    "il": "DEN›ZL›",
+    "ilce": "BAKLAN",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 233,
+    "il": "DEN›ZL›",
+    "ilce": "BEK›LL›",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 234,
+    "il": "DEN›ZL›",
+    "ilce": "BEYA–A«",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 235,
+    "il": "DEN›ZL›",
+    "ilce": "BOZKURT",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 236,
+    "il": "DEN›ZL›",
+    "ilce": "BULDAN",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 237,
+    "il": "DEN›ZL›",
+    "ilce": "«AL",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 238,
+    "il": "DEN›ZL›",
+    "ilce": "«AMEL›",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 239,
+    "il": "DEN›ZL›",
+    "ilce": "«ARDAK",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 240,
+    "il": "DEN›ZL›",
+    "ilce": "«›VR›L",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 241,
+    "il": "DEN›ZL›",
+    "ilce": "G‹NEY",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 242,
+    "il": "DEN›ZL›",
+    "ilce": "HONAZ",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 243,
+    "il": "DEN›ZL›",
+    "ilce": "KALE",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 244,
+    "il": "DEN›ZL›",
+    "ilce": "SARAYK÷Y",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 245,
+    "il": "DEN›ZL›",
+    "ilce": "SER›NH›SAR",
+    "plaka": 20
+  },
+  {
+    "bolge": "EGE",
+    "id": 246,
+    "il": "DEN›ZL›",
+    "ilce": "TAVAS",
+    "plaka": 20
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 247,
+    "il": "D›YARBAKIR",
+    "ilce": "BA–LAR",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 248,
+    "il": "D›YARBAKIR",
+    "ilce": "B›SM›L",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 249,
+    "il": "D›YARBAKIR",
+    "ilce": "«ERM›K",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 250,
+    "il": "D›YARBAKIR",
+    "ilce": "«INAR",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 251,
+    "il": "D›YARBAKIR",
+    "ilce": "«‹NG‹ﬁ",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 252,
+    "il": "D›YARBAKIR",
+    "ilce": "D›CLE",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 253,
+    "il": "D›YARBAKIR",
+    "ilce": "E–›L",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 254,
+    "il": "D›YARBAKIR",
+    "ilce": "ERGAN›",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 255,
+    "il": "D›YARBAKIR",
+    "ilce": "HAN›",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 256,
+    "il": "D›YARBAKIR",
+    "ilce": "HAZRO",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 257,
+    "il": "D›YARBAKIR",
+    "ilce": "KAYAPINAR",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 258,
+    "il": "D›YARBAKIR",
+    "ilce": "KOCAK÷Y",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 259,
+    "il": "D›YARBAKIR",
+    "ilce": "KULP",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 260,
+    "il": "D›YARBAKIR",
+    "ilce": "L›CE",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 261,
+    "il": "D›YARBAKIR",
+    "ilce": "S›LVAN",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 262,
+    "il": "D›YARBAKIR",
+    "ilce": "SUR",
+    "plaka": 21
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 263,
+    "il": "D›YARBAKIR",
+    "ilce": "YEN›ﬁEH›R",
+    "plaka": 21
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 264,
+    "il": "ED›RNE",
+    "ilce": "ENEZ",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 265,
+    "il": "ED›RNE",
+    "ilce": "HAVSA",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 266,
+    "il": "ED›RNE",
+    "ilce": "›PSALA",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 267,
+    "il": "ED›RNE",
+    "ilce": "KEﬁAN",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 268,
+    "il": "ED›RNE",
+    "ilce": "LALAPAﬁA",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 269,
+    "il": "ED›RNE",
+    "ilce": "MER›«",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 270,
+    "il": "ED›RNE",
+    "ilce": "S‹LO–LU",
+    "plaka": 22
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 271,
+    "il": "ED›RNE",
+    "ilce": "UZUNK÷PR‹",
+    "plaka": 22
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 272,
+    "il": "ELAZI–",
+    "ilce": "A–IN",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 273,
+    "il": "ELAZI–",
+    "ilce": "ALACAKAYA",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 274,
+    "il": "ELAZI–",
+    "ilce": "ARICAK",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 275,
+    "il": "ELAZI–",
+    "ilce": "BASK›L",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 276,
+    "il": "ELAZI–",
+    "ilce": "KARAKO«AN",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 277,
+    "il": "ELAZI–",
+    "ilce": "KEBAN",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 278,
+    "il": "ELAZI–",
+    "ilce": "KOVANCILAR",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 279,
+    "il": "ELAZI–",
+    "ilce": "MADEN",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 280,
+    "il": "ELAZI–",
+    "ilce": "PALU",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 281,
+    "il": "ELAZI–",
+    "ilce": "S›VR›CE",
+    "plaka": 23
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 282,
+    "il": "ERZ›NCAN",
+    "ilce": "«AYIRLI",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 283,
+    "il": "ERZ›NCAN",
+    "ilce": "›L›«",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 284,
+    "il": "ERZ›NCAN",
+    "ilce": "KEMAH",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 285,
+    "il": "ERZ›NCAN",
+    "ilce": "KEMAL›YE",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 286,
+    "il": "ERZ›NCAN",
+    "ilce": "OTLUKBEL›",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 287,
+    "il": "ERZ›NCAN",
+    "ilce": "REFAH›YE",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 288,
+    "il": "ERZ›NCAN",
+    "ilce": "TERCAN",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 289,
+    "il": "ERZ›NCAN",
+    "ilce": "‹Z‹ML‹",
+    "plaka": 24
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 290,
+    "il": "ERZURUM",
+    "ilce": "AﬁKALE",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 291,
+    "il": "ERZURUM",
+    "ilce": "AZ›Z›YE",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 292,
+    "il": "ERZURUM",
+    "ilce": "«AT",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 293,
+    "il": "ERZURUM",
+    "ilce": "HINIS",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 294,
+    "il": "ERZURUM",
+    "ilce": "HORASAN",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 295,
+    "il": "ERZURUM",
+    "ilce": "›SP›R",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 296,
+    "il": "ERZURUM",
+    "ilce": "KARA«OBAN",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 297,
+    "il": "ERZURUM",
+    "ilce": "KARAYAZI",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 298,
+    "il": "ERZURUM",
+    "ilce": "K÷PR‹K÷Y",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 299,
+    "il": "ERZURUM",
+    "ilce": "NARMAN",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 300,
+    "il": "ERZURUM",
+    "ilce": "OLTU",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 301,
+    "il": "ERZURUM",
+    "ilce": "OLUR",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 302,
+    "il": "ERZURUM",
+    "ilce": "PALAND÷KEN",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 303,
+    "il": "ERZURUM",
+    "ilce": "PAS›NLER",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 304,
+    "il": "ERZURUM",
+    "ilce": "PAZARYOLU",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 305,
+    "il": "ERZURUM",
+    "ilce": "ﬁENKAYA",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 306,
+    "il": "ERZURUM",
+    "ilce": "TEKMAN",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 307,
+    "il": "ERZURUM",
+    "ilce": "TORTUM",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 308,
+    "il": "ERZURUM",
+    "ilce": "UZUNDERE",
+    "plaka": 25
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 309,
+    "il": "ERZURUM",
+    "ilce": "YAKUT›YE",
+    "plaka": 25
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 310,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "ALPU",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 311,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "BEYL›KOVA",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 312,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "«›FTELER",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 313,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "G‹NY‹Z‹",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 314,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "HAN",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 315,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "›N÷N‹",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 316,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "MAHMUD›YE",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 317,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "M›HALGAZ›",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 318,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "M›HALI««IK",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 319,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "ODUNPAZARI",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 320,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "SARICAKAYA",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 321,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "SEY›TGAZ›",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 322,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "S›VR›H›SAR",
+    "plaka": 26
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 323,
+    "il": "ESK›ﬁEH›R",
+    "ilce": "TEPEBAﬁI",
+    "plaka": 26
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 324,
+    "il": "GAZ›ANTEP",
+    "ilce": "ARABAN",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 325,
+    "il": "GAZ›ANTEP",
+    "ilce": "›SLAH›YE",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 326,
+    "il": "GAZ›ANTEP",
+    "ilce": "KARKAMIﬁ",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 327,
+    "il": "GAZ›ANTEP",
+    "ilce": "N›Z›P",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 328,
+    "il": "GAZ›ANTEP",
+    "ilce": "NURDA–I",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 329,
+    "il": "GAZ›ANTEP",
+    "ilce": "O–UZEL›",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 330,
+    "il": "GAZ›ANTEP",
+    "ilce": "ﬁAH›NBEY",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 331,
+    "il": "GAZ›ANTEP",
+    "ilce": "ﬁEH›TKAM›L",
+    "plaka": 27
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 332,
+    "il": "GAZ›ANTEP",
+    "ilce": "YAVUZEL›",
+    "plaka": 27
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 333,
+    "il": "G›RESUN",
+    "ilce": "ALUCRA",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 334,
+    "il": "G›RESUN",
+    "ilce": "BULANCAK",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 335,
+    "il": "G›RESUN",
+    "ilce": "«AMOLUK",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 336,
+    "il": "G›RESUN",
+    "ilce": "«ANAK«I",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 337,
+    "il": "G›RESUN",
+    "ilce": "DEREL›",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 338,
+    "il": "G›RESUN",
+    "ilce": "DO–ANKENT",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 339,
+    "il": "G›RESUN",
+    "ilce": "ESP›YE",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 340,
+    "il": "G›RESUN",
+    "ilce": "EYNES›L",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 341,
+    "il": "G›RESUN",
+    "ilce": "G÷RELE",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 342,
+    "il": "G›RESUN",
+    "ilce": "G‹CE",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 343,
+    "il": "G›RESUN",
+    "ilce": "KEﬁAP",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 344,
+    "il": "G›RESUN",
+    "ilce": "P›RAZ›Z",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 345,
+    "il": "G›RESUN",
+    "ilce": "ﬁEB›NKARAH›SAR",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 346,
+    "il": "G›RESUN",
+    "ilce": "T›REBOLU",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 347,
+    "il": "G›RESUN",
+    "ilce": "YA–LIDERE",
+    "plaka": 28
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 348,
+    "il": "G‹M‹ﬁHANE",
+    "ilce": "KELK›T",
+    "plaka": 29
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 349,
+    "il": "G‹M‹ﬁHANE",
+    "ilce": "K÷SE",
+    "plaka": 29
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 350,
+    "il": "G‹M‹ﬁHANE",
+    "ilce": "K‹RT‹N",
+    "plaka": 29
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 351,
+    "il": "G‹M‹ﬁHANE",
+    "ilce": "ﬁ›RAN",
+    "plaka": 29
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 352,
+    "il": "G‹M‹ﬁHANE",
+    "ilce": "TORUL",
+    "plaka": 29
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 353,
+    "il": "HAKKAR›",
+    "ilce": "«UKURCA",
+    "plaka": 30
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 354,
+    "il": "HAKKAR›",
+    "ilce": "ﬁEMD›NL›",
+    "plaka": 30
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 355,
+    "il": "HAKKAR›",
+    "ilce": "Y‹KSEKOVA",
+    "plaka": 30
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 356,
+    "il": "HATAY",
+    "ilce": "ALTIN÷Z‹",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 357,
+    "il": "HATAY",
+    "ilce": "BELEN",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 358,
+    "il": "HATAY",
+    "ilce": "D÷RTYOL",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 359,
+    "il": "HATAY",
+    "ilce": "ERZ›N",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 360,
+    "il": "HATAY",
+    "ilce": "HASSA",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 361,
+    "il": "HATAY",
+    "ilce": "›SKENDERUN",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 362,
+    "il": "HATAY",
+    "ilce": "KIRIKHAN",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 363,
+    "il": "HATAY",
+    "ilce": "KUMLU",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 364,
+    "il": "HATAY",
+    "ilce": "REYHANLI",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 365,
+    "il": "HATAY",
+    "ilce": "SAMANDA–",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 366,
+    "il": "HATAY",
+    "ilce": "YAYLADA–I",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 367,
+    "il": "ISPARTA",
+    "ilce": "AKSU",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 368,
+    "il": "ISPARTA",
+    "ilce": "ATABEY",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 369,
+    "il": "ISPARTA",
+    "ilce": "E–›RD›R",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 370,
+    "il": "ISPARTA",
+    "ilce": "GELENDOST",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 371,
+    "il": "ISPARTA",
+    "ilce": "G÷NEN",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 372,
+    "il": "ISPARTA",
+    "ilce": "KE«›BORLU",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 373,
+    "il": "ISPARTA",
+    "ilce": "SEN›RKENT",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 374,
+    "il": "ISPARTA",
+    "ilce": "S‹T«‹LER",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 375,
+    "il": "ISPARTA",
+    "ilce": "ﬁARK›KARAA–A«",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 376,
+    "il": "ISPARTA",
+    "ilce": "ULUBORLU",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 377,
+    "il": "ISPARTA",
+    "ilce": "YALVA«",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 378,
+    "il": "ISPARTA",
+    "ilce": "YEN›ﬁARBADEML›",
+    "plaka": 32
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 379,
+    "il": "MERS›N",
+    "ilce": "AKDEN›Z",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 380,
+    "il": "MERS›N",
+    "ilce": "ANAMUR",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 381,
+    "il": "MERS›N",
+    "ilce": "AYDINCIK",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 382,
+    "il": "MERS›N",
+    "ilce": "BOZYAZI",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 383,
+    "il": "MERS›N",
+    "ilce": "«AMLIYAYLA",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 384,
+    "il": "MERS›N",
+    "ilce": "ERDEML›",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 385,
+    "il": "MERS›N",
+    "ilce": "G‹LNAR",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 386,
+    "il": "MERS›N",
+    "ilce": "MEZ›TL›",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 387,
+    "il": "MERS›N",
+    "ilce": "MUT",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 388,
+    "il": "MERS›N",
+    "ilce": "S›L›FKE",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 389,
+    "il": "MERS›N",
+    "ilce": "TARSUS",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 390,
+    "il": "MERS›N",
+    "ilce": "TOROSLAR",
+    "plaka": 33
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 391,
+    "il": "MERS›N",
+    "ilce": "YEN›ﬁEH›R",
+    "plaka": 33
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 392,
+    "il": "›STANBUL",
+    "ilce": "ADALAR",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 393,
+    "il": "›STANBUL",
+    "ilce": "ARNAVUTK÷Y",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 394,
+    "il": "›STANBUL",
+    "ilce": "ATAﬁEH›R",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 395,
+    "il": "›STANBUL",
+    "ilce": "AVCILAR",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 396,
+    "il": "›STANBUL",
+    "ilce": "BA–CILAR",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 397,
+    "il": "›STANBUL",
+    "ilce": "BAH«EL›EVLER",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 398,
+    "il": "›STANBUL",
+    "ilce": "BAKIRK÷Y",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 399,
+    "il": "›STANBUL",
+    "ilce": "BAﬁAKﬁEH›R",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 400,
+    "il": "›STANBUL",
+    "ilce": "BAYRAMPAﬁA",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 401,
+    "il": "›STANBUL",
+    "ilce": "BEﬁ›KTAﬁ",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 402,
+    "il": "›STANBUL",
+    "ilce": "BEYKOZ",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 403,
+    "il": "›STANBUL",
+    "ilce": "BEYL›KD‹Z‹",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 404,
+    "il": "›STANBUL",
+    "ilce": "BEYO–LU",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 405,
+    "il": "›STANBUL",
+    "ilce": "B‹Y‹K«EKMECE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 406,
+    "il": "›STANBUL",
+    "ilce": "«ATALCA",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 407,
+    "il": "›STANBUL",
+    "ilce": "«EKMEK÷Y",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 408,
+    "il": "›STANBUL",
+    "ilce": "ESENLER",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 409,
+    "il": "›STANBUL",
+    "ilce": "ESENYURT",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 410,
+    "il": "›STANBUL",
+    "ilce": "EY‹P",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 411,
+    "il": "›STANBUL",
+    "ilce": "FAT›H",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 412,
+    "il": "›STANBUL",
+    "ilce": "GAZ›OSMANPAﬁA",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 413,
+    "il": "›STANBUL",
+    "ilce": "G‹NG÷REN",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 414,
+    "il": "›STANBUL",
+    "ilce": "KADIK÷Y",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 415,
+    "il": "›STANBUL",
+    "ilce": "KA–ITHANE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 416,
+    "il": "›STANBUL",
+    "ilce": "KARTAL",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 417,
+    "il": "›STANBUL",
+    "ilce": "K‹«‹K«EKMECE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 418,
+    "il": "›STANBUL",
+    "ilce": "MALTEPE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 419,
+    "il": "›STANBUL",
+    "ilce": "PEND›K",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 420,
+    "il": "›STANBUL",
+    "ilce": "SANCAKTEPE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 421,
+    "il": "›STANBUL",
+    "ilce": "SARIYER",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 422,
+    "il": "›STANBUL",
+    "ilce": "S›L›VR›",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 423,
+    "il": "›STANBUL",
+    "ilce": "SULTANBEYL›",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 424,
+    "il": "›STANBUL",
+    "ilce": "SULTANGAZ›",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 425,
+    "il": "›STANBUL",
+    "ilce": "ﬁ›LE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 426,
+    "il": "›STANBUL",
+    "ilce": "ﬁ›ﬁL›",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 427,
+    "il": "›STANBUL",
+    "ilce": "TUZLA",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 428,
+    "il": "›STANBUL",
+    "ilce": "‹MRAN›YE",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 429,
+    "il": "›STANBUL",
+    "ilce": "‹SK‹DAR",
+    "plaka": 34
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 430,
+    "il": "›STANBUL",
+    "ilce": "ZEYT›NBURNU",
+    "plaka": 34
+  },
+  {
+    "bolge": "EGE",
+    "id": 431,
+    "il": "›ZM›R",
+    "ilce": "AL›A–A",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 432,
+    "il": "›ZM›R",
+    "ilce": "BAL«OVA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 433,
+    "il": "›ZM›R",
+    "ilce": "BAYINDIR",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 434,
+    "il": "›ZM›R",
+    "ilce": "BAYRAKLI",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 435,
+    "il": "›ZM›R",
+    "ilce": "BERGAMA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 436,
+    "il": "›ZM›R",
+    "ilce": "BEYDA–",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 437,
+    "il": "›ZM›R",
+    "ilce": "BORNOVA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 438,
+    "il": "›ZM›R",
+    "ilce": "BUCA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 439,
+    "il": "›ZM›R",
+    "ilce": "«EﬁME",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 440,
+    "il": "›ZM›R",
+    "ilce": "«›–L›",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 441,
+    "il": "›ZM›R",
+    "ilce": "D›K›L›",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 442,
+    "il": "›ZM›R",
+    "ilce": "FO«A",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 443,
+    "il": "›ZM›R",
+    "ilce": "GAZ›EM›R",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 444,
+    "il": "›ZM›R",
+    "ilce": "G‹ZELBAH«E",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 445,
+    "il": "›ZM›R",
+    "ilce": "KARABA–LAR",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 446,
+    "il": "›ZM›R",
+    "ilce": "KARABURUN",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 447,
+    "il": "›ZM›R",
+    "ilce": "KARﬁIYAKA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 448,
+    "il": "›ZM›R",
+    "ilce": "KEMALPAﬁA",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 449,
+    "il": "›ZM›R",
+    "ilce": "KINIK",
+    "plaka": 35
+  },
+ {
+    "bolge": "EGE",
+    "id": 450,
+    "il": "›ZM›R",
+    "ilce": "K›RAZ",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 451,
+    "il": "›ZM›R",
+    "ilce": "KONAK",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 452,
+    "il": "›ZM›R",
+    "ilce": "MENDERES",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 453,
+    "il": "›ZM›R",
+    "ilce": "MENEMEN",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 454,
+    "il": "›ZM›R",
+    "ilce": "NARLIDERE",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 455,
+    "il": "›ZM›R",
+    "ilce": "÷DEM›ﬁ",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 456,
+    "il": "›ZM›R",
+    "ilce": "SEFER›H›SAR",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 457,
+    "il": "›ZM›R",
+    "ilce": "SEL«UK",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 458,
+    "il": "›ZM›R",
+    "ilce": "T›RE",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 459,
+    "il": "›ZM›R",
+    "ilce": "TORBALI",
+    "plaka": 35
+  },
+  {
+    "bolge": "EGE",
+    "id": 460,
+    "il": "›ZM›R",
+    "ilce": "URLA",
+    "plaka": 35
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 461,
+    "il": "KARS",
+    "ilce": "AKYAKA",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 462,
+    "il": "KARS",
+    "ilce": "ARPA«AY",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 463,
+    "il": "KARS",
+    "ilce": "D›GOR",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 464,
+    "il": "KARS",
+    "ilce": "KA–IZMAN",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 465,
+    "il": "KARS",
+    "ilce": "SARIKAMIﬁ",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 466,
+    "il": "KARS",
+    "ilce": "SEL›M",
+    "plaka": 36
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 467,
+    "il": "KARS",
+    "ilce": "SUSUZ",
+    "plaka": 36
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 468,
+    "il": "KASTAMONU",
+    "ilce": "ABANA",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 469,
+    "il": "KASTAMONU",
+    "ilce": "A–LI",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 470,
+    "il": "KASTAMONU",
+    "ilce": "ARA«",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 471,
+    "il": "KASTAMONU",
+    "ilce": "AZDAVAY",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 472,
+    "il": "KASTAMONU",
+    "ilce": "BOZKURT",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 473,
+    "il": "KASTAMONU",
+    "ilce": "C›DE",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 474,
+    "il": "KASTAMONU",
+    "ilce": "«ATALZEYT›N",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 475,
+    "il": "KASTAMONU",
+    "ilce": "DADAY",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 476,
+    "il": "KASTAMONU",
+    "ilce": "DEVREKAN›",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 477,
+    "il": "KASTAMONU",
+    "ilce": "DO–ANYURT",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 478,
+    "il": "KASTAMONU",
+    "ilce": "HAN÷N‹",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 479,
+    "il": "KASTAMONU",
+    "ilce": "›HSANGAZ›",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 480,
+    "il": "KASTAMONU",
+    "ilce": "›NEBOLU",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 481,
+    "il": "KASTAMONU",
+    "ilce": "K‹RE",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 482,
+    "il": "KASTAMONU",
+    "ilce": "PINARBAﬁI",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 483,
+    "il": "KASTAMONU",
+    "ilce": "SEYD›LER",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 484,
+    "il": "KASTAMONU",
+    "ilce": "ﬁENPAZAR",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 485,
+    "il": "KASTAMONU",
+    "ilce": "TAﬁK÷PR‹",
+    "plaka": 37
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 486,
+    "il": "KASTAMONU",
+    "ilce": "TOSYA",
+    "plaka": 37
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 487,
+    "il": "KAYSER›",
+    "ilce": "AKKIﬁLA",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 488,
+    "il": "KAYSER›",
+    "ilce": "B‹NYAN",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 489,
+    "il": "KAYSER›",
+    "ilce": "DEVEL›",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 490,
+    "il": "KAYSER›",
+    "ilce": "FELAH›YE",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 491,
+    "il": "KAYSER›",
+    "ilce": "HACILAR",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 492,
+    "il": "KAYSER›",
+    "ilce": "›NCESU",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 493,
+    "il": "KAYSER›",
+    "ilce": "KOCAS›NAN",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 494,
+    "il": "KAYSER›",
+    "ilce": "MEL›KGAZ›",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 495,
+    "il": "KAYSER›",
+    "ilce": "÷ZVATAN",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 496,
+    "il": "KAYSER›",
+    "ilce": "PINARBAﬁI",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 497,
+    "il": "KAYSER›",
+    "ilce": "SARIO–LAN",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 498,
+    "il": "KAYSER›",
+    "ilce": "SARIZ",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 499,
+    "il": "KAYSER›",
+    "ilce": "TALAS",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 500,
+    "il": "KAYSER›",
+    "ilce": "TOMARZA",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 501,
+    "il": "KAYSER›",
+    "ilce": "YAHYALI",
+    "plaka": 38
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 502,
+    "il": "KAYSER›",
+    "ilce": "YEﬁ›LH›SAR",
+    "plaka": 38
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 503,
+    "il": "KIRKLAREL›",
+    "ilce": "BABAESK›",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 504,
+    "il": "KIRKLAREL›",
+    "ilce": "DEM›RK÷Y",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 505,
+    "il": "KIRKLAREL›",
+    "ilce": "KOF«AZ",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 506,
+    "il": "KIRKLAREL›",
+    "ilce": "L‹LEBURGAZ",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 507,
+    "il": "KIRKLAREL›",
+    "ilce": "PEHL›VANK÷Y",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 508,
+    "il": "KIRKLAREL›",
+    "ilce": "PINARH›SAR",
+    "plaka": 39
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 509,
+    "il": "KIRKLAREL›",
+    "ilce": "V›ZE",
+    "plaka": 39
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 510,
+    "il": "KIRﬁEH›R",
+    "ilce": "AK«AKENT",
+    "plaka": 40
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 511,
+    "il": "KIRﬁEH›R",
+    "ilce": "AKPINAR",
+    "plaka": 40
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 512,
+    "il": "KIRﬁEH›R",
+    "ilce": "BOZTEPE",
+    "plaka": 40
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 513,
+    "il": "KIRﬁEH›R",
+    "ilce": "«›«EKDA–I",
+    "plaka": 40
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 514,
+    "il": "KIRﬁEH›R",
+    "ilce": "KAMAN",
+    "plaka": 40
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 515,
+    "il": "KIRﬁEH›R",
+    "ilce": "MUCUR",
+    "plaka": 40
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 516,
+    "il": "KOCAEL›",
+    "ilce": "BAﬁ›SKELE",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 517,
+    "il": "KOCAEL›",
+    "ilce": "«AYIROVA",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 518,
+    "il": "KOCAEL›",
+    "ilce": "DARICA",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 519,
+    "il": "KOCAEL›",
+    "ilce": "DER›NCE",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 520,
+    "il": "KOCAEL›",
+    "ilce": "D›LOVASI",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 521,
+    "il": "KOCAEL›",
+    "ilce": "GEBZE",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 522,
+    "il": "KOCAEL›",
+    "ilce": "G÷LC‹K",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 523,
+    "il": "KOCAEL›",
+    "ilce": "›ZM›T",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 524,
+    "il": "KOCAEL›",
+    "ilce": "KANDIRA",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 525,
+    "il": "KOCAEL›",
+    "ilce": "KARAM‹RSEL",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 526,
+    "il": "KOCAEL›",
+    "ilce": "KARTEPE",
+    "plaka": 41
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 527,
+    "il": "KOCAEL›",
+    "ilce": "K÷RFEZ",
+    "plaka": 41
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 528,
+    "il": "KONYA",
+    "ilce": "AHIRLI",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 529,
+    "il": "KONYA",
+    "ilce": "AK÷REN",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 530,
+    "il": "KONYA",
+    "ilce": "AKﬁEH›R",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 531,
+    "il": "KONYA",
+    "ilce": "ALTINEK›N",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 532,
+    "il": "KONYA",
+    "ilce": "BEYﬁEH›R",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 533,
+    "il": "KONYA",
+    "ilce": "BOZKIR",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 534,
+    "il": "KONYA",
+    "ilce": "C›HANBEYL›",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 535,
+    "il": "KONYA",
+    "ilce": "«ELT›K",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 536,
+    "il": "KONYA",
+    "ilce": "«UMRA",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 537,
+    "il": "KONYA",
+    "ilce": "DERBENT",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 538,
+    "il": "KONYA",
+    "ilce": "DEREBUCAK",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 539,
+    "il": "KONYA",
+    "ilce": "DO–ANH›SAR",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 540,
+    "il": "KONYA",
+    "ilce": "EM›RGAZ›",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 541,
+    "il": "KONYA",
+    "ilce": "ERE–L›",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 542,
+    "il": "KONYA",
+    "ilce": "G‹NEYSINIR",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 543,
+    "il": "KONYA",
+    "ilce": "HAD›M",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 544,
+    "il": "KONYA",
+    "ilce": "HALKAPINAR",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 545,
+    "il": "KONYA",
+    "ilce": "H‹Y‹K",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 546,
+    "il": "KONYA",
+    "ilce": "ILGIN",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 547,
+    "il": "KONYA",
+    "ilce": "KADINHANI",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 548,
+    "il": "KONYA",
+    "ilce": "KARAPINAR",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 549,
+    "il": "KONYA",
+    "ilce": "KARATAY",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 550,
+    "il": "KONYA",
+    "ilce": "KULU",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 551,
+    "il": "KONYA",
+    "ilce": "MERAM",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 552,
+    "il": "KONYA",
+    "ilce": "SARAY÷N‹",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 553,
+    "il": "KONYA",
+    "ilce": "SEL«UKLU",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 554,
+    "il": "KONYA",
+    "ilce": "SEYD›ﬁEH›R",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 555,
+    "il": "KONYA",
+    "ilce": "TAﬁKENT",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 556,
+    "il": "KONYA",
+    "ilce": "TUZLUK«U",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 557,
+    "il": "KONYA",
+    "ilce": "YALIH‹Y‹K",
+    "plaka": 42
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 558,
+    "il": "KONYA",
+    "ilce": "YUNAK",
+    "plaka": 42
+  },
+  {
+    "bolge": "EGE",
+    "id": 559,
+    "il": "K‹TAHYA",
+    "ilce": "ALTINTAﬁ",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 560,
+    "il": "K‹TAHYA",
+    "ilce": "ASLANAPA",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 561,
+    "il": "K‹TAHYA",
+    "ilce": "«AVDARH›SAR",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 562,
+    "il": "K‹TAHYA",
+    "ilce": "DOMAN›«",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 563,
+    "il": "K‹TAHYA",
+    "ilce": "DUMLUPINAR",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 564,
+    "il": "K‹TAHYA",
+    "ilce": "EMET",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 565,
+    "il": "K‹TAHYA",
+    "ilce": "GED›Z",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 566,
+    "il": "K‹TAHYA",
+    "ilce": "H›SARCIK",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 567,
+    "il": "K‹TAHYA",
+    "ilce": "PAZARLAR",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 568,
+    "il": "K‹TAHYA",
+    "ilce": "S›MAV",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 569,
+    "il": "K‹TAHYA",
+    "ilce": "ﬁAPHANE",
+    "plaka": 43
+  },
+  {
+    "bolge": "EGE",
+    "id": 570,
+    "il": "K‹TAHYA",
+    "ilce": "TAVﬁANLI",
+    "plaka": 43
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 571,
+    "il": "MALATYA",
+    "ilce": "AK«ADA–",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 572,
+    "il": "MALATYA",
+    "ilce": "ARAPG›R",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 573,
+    "il": "MALATYA",
+    "ilce": "ARGUVAN",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 574,
+    "il": "MALATYA",
+    "ilce": "BATTALGAZ›",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 575,
+    "il": "MALATYA",
+    "ilce": "DARENDE",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 576,
+    "il": "MALATYA",
+    "ilce": "DO–ANﬁEH›R",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 577,
+    "il": "MALATYA",
+    "ilce": "DO–ANYOL",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 578,
+    "il": "MALATYA",
+    "ilce": "HEK›MHAN",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 579,
+    "il": "MALATYA",
+    "ilce": "KALE",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 580,
+    "il": "MALATYA",
+    "ilce": "KULUNCAK",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 581,
+    "il": "MALATYA",
+    "ilce": "P‹T‹RGE",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 582,
+    "il": "MALATYA",
+    "ilce": "YAZIHAN",
+    "plaka": 44
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 583,
+    "il": "MALATYA",
+    "ilce": "YEﬁ›LYURT",
+    "plaka": 44
+  },
+  {
+    "bolge": "EGE",
+    "id": 584,
+    "il": "MAN›SA",
+    "ilce": "AHMETL›",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 585,
+    "il": "MAN›SA",
+    "ilce": "AKH›SAR",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 586,
+    "il": "MAN›SA",
+    "ilce": "ALAﬁEH›R",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 587,
+    "il": "MAN›SA",
+    "ilce": "DEM›RC›",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 588,
+    "il": "MAN›SA",
+    "ilce": "G÷LMARMARA",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 589,
+    "il": "MAN›SA",
+    "ilce": "G÷RDES",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 590,
+    "il": "MAN›SA",
+    "ilce": "KIRKA–A«",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 591,
+    "il": "MAN›SA",
+    "ilce": "K÷PR‹BAﬁI",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 592,
+    "il": "MAN›SA",
+    "ilce": "KULA",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 593,
+    "il": "MAN›SA",
+    "ilce": "SAL›HL›",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 594,
+    "il": "MAN›SA",
+    "ilce": "SARIG÷L",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 595,
+    "il": "MAN›SA",
+    "ilce": "SARUHANLI",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 596,
+    "il": "MAN›SA",
+    "ilce": "SELEND›",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 597,
+    "il": "MAN›SA",
+    "ilce": "SOMA",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 598,
+    "il": "MAN›SA",
+    "ilce": "TURGUTLU",
+    "plaka": 45
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 599,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "AFﬁ›N",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 600,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "ANDIRIN",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 601,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "«A–LAYANCER›T",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 602,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "EK›N÷Z‹",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 603,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "ELB›STAN",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 604,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "G÷KSUN",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 605,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "NURHAK",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 606,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "PAZARCIK",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 607,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "T‹RKO–LU",
+    "plaka": 46
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 608,
+    "il": "MARD›N",
+    "ilce": "DARGE«›T",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 609,
+    "il": "MARD›N",
+    "ilce": "DER›K",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 610,
+    "il": "MARD›N",
+    "ilce": "KIZILTEPE",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 611,
+    "il": "MARD›N",
+    "ilce": "MAZIDA–I",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 612,
+    "il": "MARD›N",
+    "ilce": "M›DYAT",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 613,
+    "il": "MARD›N",
+    "ilce": "NUSAYB›N",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 614,
+    "il": "MARD›N",
+    "ilce": "÷MERL›",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 615,
+    "il": "MARD›N",
+    "ilce": "SAVUR",
+    "plaka": 47
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 616,
+    "il": "MARD›N",
+    "ilce": "YEﬁ›LL›",
+    "plaka": 47
+  },
+  {
+    "bolge": "EGE",
+    "id": 617,
+    "il": "MU–LA",
+    "ilce": "BODRUM",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 618,
+    "il": "MU–LA",
+    "ilce": "DALAMAN",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 619,
+    "il": "MU–LA",
+    "ilce": "DAT«A",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 620,
+    "il": "MU–LA",
+    "ilce": "FETH›YE",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 621,
+    "il": "MU–LA",
+    "ilce": "KAVAKLIDERE",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 622,
+    "il": "MU–LA",
+    "ilce": "K÷YCE–›Z",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 623,
+    "il": "MU–LA",
+    "ilce": "MARMAR›S",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 624,
+    "il": "MU–LA",
+    "ilce": "M›LAS",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 625,
+    "il": "MU–LA",
+    "ilce": "ORTACA",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 626,
+    "il": "MU–LA",
+    "ilce": "ULA",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 627,
+    "il": "MU–LA",
+    "ilce": "YATA–AN",
+    "plaka": 48
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 628,
+    "il": "MUﬁ",
+    "ilce": "BULANIK",
+    "plaka": 49
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 629,
+    "il": "MUﬁ",
+    "ilce": "HASK÷Y",
+    "plaka": 49
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 630,
+    "il": "MUﬁ",
+    "ilce": "KORKUT",
+    "plaka": 49
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 631,
+    "il": "MUﬁ",
+    "ilce": "MALAZG›RT",
+    "plaka": 49
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 632,
+    "il": "MUﬁ",
+    "ilce": "VARTO",
+    "plaka": 49
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 633,
+    "il": "NEVﬁEH›R",
+    "ilce": "ACIG÷L",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 634,
+    "il": "NEVﬁEH›R",
+    "ilce": "AVANOS",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 635,
+    "il": "NEVﬁEH›R",
+    "ilce": "DER›NKUYU",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 636,
+    "il": "NEVﬁEH›R",
+    "ilce": "G‹LﬁEH›R",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 637,
+    "il": "NEVﬁEH›R",
+    "ilce": "HACIBEKTAﬁ",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 638,
+    "il": "NEVﬁEH›R",
+    "ilce": "KOZAKLI",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 639,
+    "il": "NEVﬁEH›R",
+    "ilce": "‹RG‹P",
+    "plaka": 50
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 640,
+    "il": "N›–DE",
+    "ilce": "ALTUNH›SAR",
+    "plaka": 51
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 641,
+    "il": "N›–DE",
+    "ilce": "BOR",
+    "plaka": 51
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 642,
+    "il": "N›–DE",
+    "ilce": "«AMARDI",
+    "plaka": 51
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 643,
+    "il": "N›–DE",
+    "ilce": "«›FTL›K",
+    "plaka": 51
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 644,
+    "il": "N›–DE",
+    "ilce": "ULUKIﬁLA",
+    "plaka": 51
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 645,
+    "il": "ORDU",
+    "ilce": "AKKUﬁ",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 646,
+    "il": "ORDU",
+    "ilce": "AYBASTI",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 647,
+    "il": "ORDU",
+    "ilce": "«AMAﬁ",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 648,
+    "il": "ORDU",
+    "ilce": "«ATALPINAR",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 649,
+    "il": "ORDU",
+    "ilce": "«AYBAﬁI",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 650,
+    "il": "ORDU",
+    "ilce": "FATSA",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 651,
+    "il": "ORDU",
+    "ilce": "G÷LK÷Y",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 652,
+    "il": "ORDU",
+    "ilce": "G‹LYALI",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 653,
+    "il": "ORDU",
+    "ilce": "G‹RGENTEPE",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 654,
+    "il": "ORDU",
+    "ilce": "›K›ZCE",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 655,
+    "il": "ORDU",
+    "ilce": "KABAD‹Z",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 656,
+    "il": "ORDU",
+    "ilce": "KABATAﬁ",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 657,
+    "il": "ORDU",
+    "ilce": "KORGAN",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 658,
+    "il": "ORDU",
+    "ilce": "KUMRU",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 659,
+    "il": "ORDU",
+    "ilce": "MESUD›YE",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 660,
+    "il": "ORDU",
+    "ilce": "PERﬁEMBE",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 661,
+    "il": "ORDU",
+    "ilce": "ULUBEY",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 662,
+    "il": "ORDU",
+    "ilce": "‹NYE",
+    "plaka": 52
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 663,
+    "il": "R›ZE",
+    "ilce": "ARDEﬁEN",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 664,
+    "il": "R›ZE",
+    "ilce": "«AMLIHEMﬁ›N",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 665,
+    "il": "R›ZE",
+    "ilce": "«AYEL›",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 666,
+    "il": "R›ZE",
+    "ilce": "DEREPAZARI",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 667,
+    "il": "R›ZE",
+    "ilce": "FINDIKLI",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 668,
+    "il": "R›ZE",
+    "ilce": "G‹NEYSU",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 669,
+    "il": "R›ZE",
+    "ilce": "HEMﬁ›N",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 670,
+    "il": "R›ZE",
+    "ilce": "›K›ZDERE",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 671,
+    "il": "R›ZE",
+    "ilce": "›Y›DERE",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 672,
+    "il": "R›ZE",
+    "ilce": "KALKANDERE",
+    "plaka": 53
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 673,
+    "il": "R›ZE",
+    "ilce": "PAZAR",
+    "plaka": 53
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 674,
+    "il": "SAKARYA",
+    "ilce": "ADAPAZARI",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 675,
+    "il": "SAKARYA",
+    "ilce": "AKYAZI",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 676,
+    "il": "SAKARYA",
+    "ilce": "AR›F›YE",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 677,
+    "il": "SAKARYA",
+    "ilce": "ERENLER",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 678,
+    "il": "SAKARYA",
+    "ilce": "FER›ZL›",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 679,
+    "il": "SAKARYA",
+    "ilce": "GEYVE",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 680,
+    "il": "SAKARYA",
+    "ilce": "HENDEK",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 681,
+    "il": "SAKARYA",
+    "ilce": "KARAP‹R«EK",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 682,
+    "il": "SAKARYA",
+    "ilce": "KARASU",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 683,
+    "il": "SAKARYA",
+    "ilce": "KAYNARCA",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 684,
+    "il": "SAKARYA",
+    "ilce": "KOCAAL›",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 685,
+    "il": "SAKARYA",
+    "ilce": "PAMUKOVA",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 686,
+    "il": "SAKARYA",
+    "ilce": "SAPANCA",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 687,
+    "il": "SAKARYA",
+    "ilce": "SERD›VAN",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 688,
+    "il": "SAKARYA",
+    "ilce": "S÷–‹TL‹",
+    "plaka": 54
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 689,
+    "il": "SAKARYA",
+    "ilce": "TARAKLI",
+    "plaka": 54
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 690,
+    "il": "SAMSUN",
+    "ilce": "ONDOKUZMAYIS",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 691,
+    "il": "SAMSUN",
+    "ilce": "ALA«AM",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 692,
+    "il": "SAMSUN",
+    "ilce": "ASARCIK",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 693,
+    "il": "SAMSUN",
+    "ilce": "ATAKUM",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 694,
+    "il": "SAMSUN",
+    "ilce": "AYVACIK",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 695,
+    "il": "SAMSUN",
+    "ilce": "BAFRA",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 696,
+    "il": "SAMSUN",
+    "ilce": "CAN›K",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 697,
+    "il": "SAMSUN",
+    "ilce": "«ARﬁAMBA",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 698,
+    "il": "SAMSUN",
+    "ilce": "HAVZA",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 699,
+    "il": "SAMSUN",
+    "ilce": "›LKADIM",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 700,
+    "il": "SAMSUN",
+    "ilce": "KAVAK",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 701,
+    "il": "SAMSUN",
+    "ilce": "LAD›K",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 702,
+    "il": "SAMSUN",
+    "ilce": "SALIPAZARI",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 703,
+    "il": "SAMSUN",
+    "ilce": "TEKKEK÷Y",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 704,
+    "il": "SAMSUN",
+    "ilce": "TERME",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 705,
+    "il": "SAMSUN",
+    "ilce": "VEZ›RK÷PR‹",
+    "plaka": 55
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 706,
+    "il": "SAMSUN",
+    "ilce": "YAKAKENT",
+    "plaka": 55
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 707,
+    "il": "S››RT",
+    "ilce": "AYDINLAR",
+    "plaka": 56
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 708,
+    "il": "S››RT",
+    "ilce": "BAYKAN",
+    "plaka": 56
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 709,
+    "il": "S››RT",
+    "ilce": "ERUH",
+    "plaka": 56
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 710,
+    "il": "S››RT",
+    "ilce": "KURTALAN",
+    "plaka": 56
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 711,
+    "il": "S››RT",
+    "ilce": "PERVAR›",
+    "plaka": 56
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 712,
+    "il": "S››RT",
+    "ilce": "ﬁ›RVAN",
+    "plaka": 56
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 713,
+    "il": "S›NOP",
+    "ilce": "AYANCIK",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 714,
+    "il": "S›NOP",
+    "ilce": "BOYABAT",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 715,
+    "il": "S›NOP",
+    "ilce": "D›KMEN",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 716,
+    "il": "S›NOP",
+    "ilce": "DURA–AN",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 717,
+    "il": "S›NOP",
+    "ilce": "ERFELEK",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 718,
+    "il": "S›NOP",
+    "ilce": "GERZE",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 719,
+    "il": "S›NOP",
+    "ilce": "SARAYD‹Z‹",
+    "plaka": 57
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 720,
+    "il": "S›NOP",
+    "ilce": "T‹RKEL›",
+    "plaka": 57
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 721,
+    "il": "S›VAS",
+    "ilce": "AKINCILAR",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 722,
+    "il": "S›VAS",
+    "ilce": "ALTINYAYLA",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 723,
+    "il": "S›VAS",
+    "ilce": "D›VR›–›",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 724,
+    "il": "S›VAS",
+    "ilce": "DO–ANﬁAR",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 725,
+    "il": "S›VAS",
+    "ilce": "GEMEREK",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 726,
+    "il": "S›VAS",
+    "ilce": "G÷LOVA",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 727,
+    "il": "S›VAS",
+    "ilce": "G‹R‹N",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 728,
+    "il": "S›VAS",
+    "ilce": "HAF›K",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 729,
+    "il": "S›VAS",
+    "ilce": "›MRANLI",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 730,
+    "il": "S›VAS",
+    "ilce": "KANGAL",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 731,
+    "il": "S›VAS",
+    "ilce": "KOYULH›SAR",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 732,
+    "il": "S›VAS",
+    "ilce": "SUﬁEHR›",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 733,
+    "il": "S›VAS",
+    "ilce": "ﬁARKIﬁLA",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 734,
+    "il": "S›VAS",
+    "ilce": "ULAﬁ",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 735,
+    "il": "S›VAS",
+    "ilce": "YILDIZEL›",
+    "plaka": 58
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 736,
+    "il": "S›VAS",
+    "ilce": "ZARA",
+    "plaka": 58
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 737,
+    "il": "TEK›RDA–",
+    "ilce": "«ERKEZK÷Y",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 738,
+    "il": "TEK›RDA–",
+    "ilce": "«ORLU",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 739,
+    "il": "TEK›RDA–",
+    "ilce": "HAYRABOLU",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 740,
+    "il": "TEK›RDA–",
+    "ilce": "MALKARA",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 741,
+    "il": "TEK›RDA–",
+    "ilce": "MARMARAERE–L›S›",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 742,
+    "il": "TEK›RDA–",
+    "ilce": "MURATLI",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 743,
+    "il": "TEK›RDA–",
+    "ilce": "SARAY",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 744,
+    "il": "TEK›RDA–",
+    "ilce": "ﬁARK÷Y",
+    "plaka": 59
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 745,
+    "il": "TOKAT",
+    "ilce": "ALMUS",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 746,
+    "il": "TOKAT",
+    "ilce": "ARTOVA",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 747,
+    "il": "TOKAT",
+    "ilce": "BAﬁ«›FTL›K",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 748,
+    "il": "TOKAT",
+    "ilce": "ERBAA",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 749,
+    "il": "TOKAT",
+    "ilce": "N›KSAR",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 750,
+    "il": "TOKAT",
+    "ilce": "PAZAR",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 751,
+    "il": "TOKAT",
+    "ilce": "REﬁAD›YE",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 752,
+    "il": "TOKAT",
+    "ilce": "SULUSARAY",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 753,
+    "il": "TOKAT",
+    "ilce": "TURHAL",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 754,
+    "il": "TOKAT",
+    "ilce": "YEﬁ›LYURT",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 755,
+    "il": "TOKAT",
+    "ilce": "Z›LE",
+    "plaka": 60
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 756,
+    "il": "TRABZON",
+    "ilce": "AK«AABAT",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 757,
+    "il": "TRABZON",
+    "ilce": "ARAKLI",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 758,
+    "il": "TRABZON",
+    "ilce": "ARS›N",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 759,
+    "il": "TRABZON",
+    "ilce": "BEﬁ›KD‹Z‹",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 760,
+    "il": "TRABZON",
+    "ilce": "«ARﬁIBAﬁI",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 761,
+    "il": "TRABZON",
+    "ilce": "«AYKARA",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 762,
+    "il": "TRABZON",
+    "ilce": "DERNEKPAZARI",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 763,
+    "il": "TRABZON",
+    "ilce": "D‹ZK÷Y",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 764,
+    "il": "TRABZON",
+    "ilce": "HAYRAT",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 765,
+    "il": "TRABZON",
+    "ilce": "K÷PR‹BAﬁI",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 766,
+    "il": "TRABZON",
+    "ilce": "MA«KA",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 767,
+    "il": "TRABZON",
+    "ilce": "OF",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 768,
+    "il": "TRABZON",
+    "ilce": "S‹RMENE",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 769,
+    "il": "TRABZON",
+    "ilce": "ﬁALPAZARI",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 770,
+    "il": "TRABZON",
+    "ilce": "TONYA",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 771,
+    "il": "TRABZON",
+    "ilce": "VAKFIKEB›R",
+    "plaka": 61
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 772,
+    "il": "TRABZON",
+    "ilce": "YOMRA",
+    "plaka": 61
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 773,
+    "il": "TUNCEL›",
+    "ilce": "«EM›ﬁGEZEK",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 774,
+    "il": "TUNCEL›",
+    "ilce": "HOZAT",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 775,
+    "il": "TUNCEL›",
+    "ilce": "MAZG›RT",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 776,
+    "il": "TUNCEL›",
+    "ilce": "NAZIM›YE",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 777,
+    "il": "TUNCEL›",
+    "ilce": "OVACIK",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 778,
+    "il": "TUNCEL›",
+    "ilce": "PERTEK",
+    "plaka": 62
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 779,
+    "il": "TUNCEL›",
+    "ilce": "P‹L‹M‹R",
+    "plaka": 62
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 780,
+    "il": "ﬁANLIURFA",
+    "ilce": "AK«AKALE",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 781,
+    "il": "ﬁANLIURFA",
+    "ilce": "B›REC›K",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 782,
+    "il": "ﬁANLIURFA",
+    "ilce": "BOZOVA",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 783,
+    "il": "ﬁANLIURFA",
+    "ilce": "CEYLANPINAR",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 784,
+    "il": "ﬁANLIURFA",
+    "ilce": "HALFET›",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 785,
+    "il": "ﬁANLIURFA",
+    "ilce": "HARRAN",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 786,
+    "il": "ﬁANLIURFA",
+    "ilce": "H›LVAN",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 787,
+    "il": "ﬁANLIURFA",
+    "ilce": "S›VEREK",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 788,
+    "il": "ﬁANLIURFA",
+    "ilce": "SURU«",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 789,
+    "il": "ﬁANLIURFA",
+    "ilce": "V›RANﬁEH›R",
+    "plaka": 63
+  },
+  {
+    "bolge": "EGE",
+    "id": 790,
+    "il": "UﬁAK",
+    "ilce": "BANAZ",
+    "plaka": 64
+  },
+  {
+    "bolge": "EGE",
+    "id": 791,
+    "il": "UﬁAK",
+    "ilce": "EﬁME",
+    "plaka": 64
+  },
+  {
+    "bolge": "EGE",
+    "id": 792,
+    "il": "UﬁAK",
+    "ilce": "KARAHALLI",
+    "plaka": 64
+  },
+  {
+    "bolge": "EGE",
+    "id": 793,
+    "il": "UﬁAK",
+    "ilce": "S›VASLI",
+    "plaka": 64
+  },
+  {
+    "bolge": "EGE",
+    "id": 794,
+    "il": "UﬁAK",
+    "ilce": "ULUBEY",
+    "plaka": 64
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 795,
+    "il": "VAN",
+    "ilce": "BAH«ESARAY",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 796,
+    "il": "VAN",
+    "ilce": "BAﬁKALE",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 797,
+    "il": "VAN",
+    "ilce": "«ALDIRAN",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 798,
+    "il": "VAN",
+    "ilce": "«ATAK",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 799,
+    "il": "VAN",
+    "ilce": "EDREM›T",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 800,
+    "il": "VAN",
+    "ilce": "ERC›ﬁ",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 801,
+    "il": "VAN",
+    "ilce": "GEVAﬁ",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 802,
+    "il": "VAN",
+    "ilce": "G‹RPINAR",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 803,
+    "il": "VAN",
+    "ilce": "MURAD›YE",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 804,
+    "il": "VAN",
+    "ilce": "÷ZALP",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 805,
+    "il": "VAN",
+    "ilce": "SARAY",
+    "plaka": 65
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 806,
+    "il": "YOZGAT",
+    "ilce": "AKDA–MADEN›",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 807,
+    "il": "YOZGAT",
+    "ilce": "AYDINCIK",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 808,
+    "il": "YOZGAT",
+    "ilce": "BO–AZLIYAN",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 809,
+    "il": "YOZGAT",
+    "ilce": "«ANDIR",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 810,
+    "il": "YOZGAT",
+    "ilce": "«AYIRALAN",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 811,
+    "il": "YOZGAT",
+    "ilce": "«EKEREK",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 812,
+    "il": "YOZGAT",
+    "ilce": "KADIﬁEHR›",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 813,
+    "il": "YOZGAT",
+    "ilce": "SARAYKENT",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 814,
+    "il": "YOZGAT",
+    "ilce": "SARIKAYA",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 815,
+    "il": "YOZGAT",
+    "ilce": "SORGUN",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 816,
+    "il": "YOZGAT",
+    "ilce": "ﬁEFAATL›",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 817,
+    "il": "YOZGAT",
+    "ilce": "YEN›FAKILI",
+    "plaka": 66
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 818,
+    "il": "YOZGAT",
+    "ilce": "YERK÷Y",
+    "plaka": 66
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 819,
+    "il": "ZONGULDAK",
+    "ilce": "ALAPLI",
+    "plaka": 67
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 820,
+    "il": "ZONGULDAK",
+    "ilce": "«AYCUMA",
+    "plaka": 67
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 821,
+    "il": "ZONGULDAK",
+    "ilce": "DEVREK",
+    "plaka": 67
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 822,
+    "il": "ZONGULDAK",
+    "ilce": "ERE–L›",
+    "plaka": 67
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 823,
+    "il": "ZONGULDAK",
+    "ilce": "G÷K«EBEY",
+    "plaka": 67
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 824,
+    "il": "AKSARAY",
+    "ilce": "A–A«÷REN",
+    "plaka": 68
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 825,
+    "il": "AKSARAY",
+    "ilce": "ESK›L",
+    "plaka": 68
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 826,
+    "il": "AKSARAY",
+    "ilce": "G‹LA–A«",
+    "plaka": 68
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 827,
+    "il": "AKSARAY",
+    "ilce": "G‹ZELYURT",
+    "plaka": 68
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 828,
+    "il": "AKSARAY",
+    "ilce": "ORTAK÷Y",
+    "plaka": 68
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 829,
+    "il": "AKSARAY",
+    "ilce": "SARIYAHﬁ›",
+    "plaka": 68
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 830,
+    "il": "BAYBURT",
+    "ilce": "AYDINTEPE",
+    "plaka": 69
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 831,
+    "il": "BAYBURT",
+    "ilce": "DEM›R÷Z‹",
+    "plaka": 69
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 832,
+    "il": "KARAMAN",
+    "ilce": "AYRANCI",
+    "plaka": 70
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 833,
+    "il": "KARAMAN",
+    "ilce": "BAﬁYAYLA",
+    "plaka": 70
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 834,
+    "il": "KARAMAN",
+    "ilce": "ERMENEK",
+    "plaka": 70
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 835,
+    "il": "KARAMAN",
+    "ilce": "KAZIMKARABEK›R",
+    "plaka": 70
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 836,
+    "il": "KARAMAN",
+    "ilce": "SARIVEL›LER",
+    "plaka": 70
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 837,
+    "il": "KIRIKKALE",
+    "ilce": "BAHﬁ›L›",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 838,
+    "il": "KIRIKKALE",
+    "ilce": "BALIﬁEYH",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 839,
+    "il": "KIRIKKALE",
+    "ilce": "«ELEB›",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 840,
+    "il": "KIRIKKALE",
+    "ilce": "DEL›CE",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 841,
+    "il": "KIRIKKALE",
+    "ilce": "KARAKE«›L›",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 842,
+    "il": "KIRIKKALE",
+    "ilce": "KESK›N",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 843,
+    "il": "KIRIKKALE",
+    "ilce": "SULAKYURT",
+    "plaka": 71
+  },
+  {
+    "bolge": "›« ANADOLU",
+    "id": 844,
+    "il": "KIRIKKALE",
+    "ilce": "YAHﬁ›HAN",
+    "plaka": 71
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 845,
+    "il": "BATMAN",
+    "ilce": "BEﬁ›R›",
+    "plaka": 72
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 846,
+    "il": "BATMAN",
+    "ilce": "GERC‹ﬁ",
+    "plaka": 72
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 847,
+    "il": "BATMAN",
+    "ilce": "HASANKEYF",
+    "plaka": 72
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 848,
+    "il": "BATMAN",
+    "ilce": "KOZLUK",
+    "plaka": 72
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 849,
+    "il": "BATMAN",
+    "ilce": "SASON",
+    "plaka": 72
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 850,
+    "il": "ﬁIRNAK",
+    "ilce": "BEYT‹ﬁﬁEBAP",
+    "plaka": 73
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 851,
+    "il": "ﬁIRNAK",
+    "ilce": "C›ZRE",
+    "plaka": 73
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 852,
+    "il": "ﬁIRNAK",
+    "ilce": "G‹«L‹KONAK",
+    "plaka": 73
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 853,
+    "il": "ﬁIRNAK",
+    "ilce": "›D›L",
+    "plaka": 73
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 854,
+    "il": "ﬁIRNAK",
+    "ilce": "S›LOP›",
+    "plaka": 73
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 855,
+    "il": "ﬁIRNAK",
+    "ilce": "ULUDERE",
+    "plaka": 73
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 856,
+    "il": "BARTIN",
+    "ilce": "AMASRA",
+    "plaka": 74
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 857,
+    "il": "BARTIN",
+    "ilce": "KURUCAﬁ›LE",
+    "plaka": 74
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 858,
+    "il": "BARTIN",
+    "ilce": "ULUS",
+    "plaka": 74
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 859,
+    "il": "ARDAHAN",
+    "ilce": "«ILDIR",
+    "plaka": 75
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 860,
+    "il": "ARDAHAN",
+    "ilce": "DAMAL",
+    "plaka": 75
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 861,
+    "il": "ARDAHAN",
+    "ilce": "G÷LE",
+    "plaka": 75
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 862,
+    "il": "ARDAHAN",
+    "ilce": "HANAK",
+    "plaka": 75
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 863,
+    "il": "ARDAHAN",
+    "ilce": "POSOF",
+    "plaka": 75
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 864,
+    "il": "I–DIR",
+    "ilce": "ARALIK",
+    "plaka": 76
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 865,
+    "il": "I–DIR",
+    "ilce": "KARAKOYUNLU",
+    "plaka": 76
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 866,
+    "il": "I–DIR",
+    "ilce": "TUZLUCA",
+    "plaka": 76
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 867,
+    "il": "YALOVA",
+    "ilce": "ALTINOVA",
+    "plaka": 77
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 868,
+    "il": "YALOVA",
+    "ilce": "ARMUTLU",
+    "plaka": 77
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 869,
+    "il": "YALOVA",
+    "ilce": "«INARCIK",
+    "plaka": 77
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 870,
+    "il": "YALOVA",
+    "ilce": "«›FTL›KK÷Y",
+    "plaka": 77
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 871,
+    "il": "YALOVA",
+    "ilce": "TERMAL",
+    "plaka": 77
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 872,
+    "il": "KARAB‹K",
+    "ilce": "EFLAN›",
+    "plaka": 78
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 873,
+    "il": "KARAB‹K",
+    "ilce": "ESK›PAZAR",
+    "plaka": 78
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 874,
+    "il": "KARAB‹K",
+    "ilce": "OVACIK",
+    "plaka": 78
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 875,
+    "il": "KARAB‹K",
+    "ilce": "SAFRANBOLU",
+    "plaka": 78
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 876,
+    "il": "KARAB‹K",
+    "ilce": "YEN›CE",
+    "plaka": 78
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 877,
+    "il": "K›L›S",
+    "ilce": "ELBEYL›",
+    "plaka": 79
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 878,
+    "il": "K›L›S",
+    "ilce": "MUSABEYL›",
+    "plaka": 79
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 879,
+    "il": "K›L›S",
+    "ilce": "POLATEL›",
+    "plaka": 79
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 880,
+    "il": "OSMAN›YE",
+    "ilce": "BAH«E",
+    "plaka": 80
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 881,
+    "il": "OSMAN›YE",
+    "ilce": "D‹Z›«›",
+    "plaka": 80
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 882,
+    "il": "OSMAN›YE",
+    "ilce": "HASANBEYL›",
+    "plaka": 80
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 883,
+    "il": "OSMAN›YE",
+    "ilce": "KAD›RL›",
+    "plaka": 80
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 884,
+    "il": "OSMAN›YE",
+    "ilce": "SUMBAS",
+    "plaka": 80
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 885,
+    "il": "OSMAN›YE",
+    "ilce": "TOPRAKKALE",
+    "plaka": 80
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 886,
+    "il": "D‹ZCE",
+    "ilce": "AK«AKOCA",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 887,
+    "il": "D‹ZCE",
+    "ilce": "CUMAYER›",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 888,
+    "il": "D‹ZCE",
+    "ilce": "«›L›ML›",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 889,
+    "il": "D‹ZCE",
+    "ilce": "G÷LYAKA",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 890,
+    "il": "D‹ZCE",
+    "ilce": "G‹M‹ﬁOVA",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 891,
+    "il": "D‹ZCE",
+    "ilce": "KAYNAﬁLI",
+    "plaka": 81
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 892,
+    "il": "D‹ZCE",
+    "ilce": "YI–ILCA",
+    "plaka": 81
+  },
+  {
+    "bolge": "EGE",
+    "id": 893,
+    "il": "AYDIN",
+    "ilce": "EFELER",
+    "plaka": 9
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 894,
+    "il": "BALIKES›R",
+    "ilce": "KARES›",
+    "plaka": 10
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 895,
+    "il": "BALIKES›R",
+    "ilce": "ALTIEYL‹L",
+    "plaka": 10
+  },
+  {
+    "bolge": "EGE",
+    "id": 896,
+    "il": "DEN›ZL›",
+    "ilce": "MERKEZEFEND›",
+    "plaka": 20
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 897,
+    "il": "HATAY",
+    "ilce": "ANTAKYA",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 898,
+    "il": "HATAY",
+    "ilce": "DEFNE",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 899,
+    "il": "HATAY",
+    "ilce": "ARSUZ",
+    "plaka": 31
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 900,
+    "il": "HATAY",
+    "ilce": "PAYAS",
+    "plaka": 31
+  },
+  {
+    "bolge": "EGE",
+    "id": 901,
+    "il": "MAN›SA",
+    "ilce": "ﬁEHZADELER",
+    "plaka": 45
+  },
+  {
+    "bolge": "EGE",
+    "id": 902,
+    "il": "MAN›SA",
+    "ilce": "YUNUSEMRE",
+    "plaka": 45
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 903,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "DULKAD›RO–LU",
+    "plaka": 46
+  },
+  {
+    "bolge": "AKDEN›Z",
+    "id": 904,
+    "il": "KAHRAMANMARAﬁ",
+    "ilce": "ON›K›ﬁUBAT",
+    "plaka": 46
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 905,
+    "il": "MARD›N",
+    "ilce": "ARTUKLU",
+    "plaka": 47
+  },
+  {
+    "bolge": "EGE",
+    "id": 906,
+    "il": "MU–LA",
+    "ilce": "MENTEﬁE",
+    "plaka": 48
+  },
+  {
+    "bolge": "EGE",
+    "id": 907,
+    "il": "MU–LA",
+    "ilce": "SEYD›KEMER",
+    "plaka": 48
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 908,
+    "il": "TEK›RDA–",
+    "ilce": "S‹LEYMANPAﬁA",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 909,
+    "il": "TEK›RDA–",
+    "ilce": "KAPAKLI",
+    "plaka": 59
+  },
+  {
+    "bolge": "MARMARA",
+    "id": 910,
+    "il": "TEK›RDA–",
+    "ilce": "ERGENE",
+    "plaka": 59
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 911,
+    "il": "TRABZON",
+    "ilce": "ORTAH›SAR",
+    "plaka": 61
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 912,
+    "il": "ﬁANLIURFA",
+    "ilce": "EYY‹B›YE",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 913,
+    "il": "ﬁANLIURFA",
+    "ilce": "HAL›L›YE",
+    "plaka": 63
+  },
+  {
+    "bolge": "G‹NEYDO–U ANADOLU",
+    "id": 914,
+    "il": "ﬁANLIURFA",
+    "ilce": "KARAK÷PR‹",
+    "plaka": 63
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 915,
+    "il": "VAN",
+    "ilce": "TUﬁBA",
+    "plaka": 65
+  },
+  {
+    "bolge": "DO–U ANADOLU",
+    "id": 916,
+    "il": "VAN",
+    "ilce": "›PEKYOLU",
+    "plaka": 65
+  },
+  {
+    "bolge": "KARADEN›Z",
+    "id": 917,
+    "il": "ZONGULDAK",
+    "ilce": "K›L›ML›",
+    "plaka": 67
+  }
+]
+ 

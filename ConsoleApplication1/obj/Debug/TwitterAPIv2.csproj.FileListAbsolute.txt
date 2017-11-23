@@ -1,0 +1,30 @@
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cnrkrglr\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\TwitterAPIv2.csprojResolveAssemblyReference.cache
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\obj\Debug\TwitterAPIv2.csprojResolveAssemblyReference.cache
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\Resources\TxtFiles\CityCounty.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\CheckRequestLimit.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\FilteredTweets.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\TweetsJsonFormat.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Web.Http.dll
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Web.Http.xml
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\LogFiles\PincidentResponseStatus1.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\LogFiles\PincidentResponseStatus2.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\LogFiles\PincidentResponseStatus3.txt
+C:\Users\cnrkrglr\Desktop\TwitterAPIv2\ConsoleApplication1\bin\Debug\OutputFiles\ListOfFilteredTweetId.txt
